@@ -53,7 +53,13 @@ let ALib = [
 "<a class='btn btn-primary' href=' "+lib[9]+" ' style='background-color: #ffffff00;'><b>ABRIR 1</b></a> <a class='btn btn-primary' href=' "+lib[10]+" ' style='background-color: #ffffff00;'><b>ABRIR 2</b></a> <a class='btn btn-primary' href=' "+lib[11]+" ' style='background-color: #ffffff00;'><b>ABRIR 3</b></a>",
 
 ];
+let AArg = [
+"<a class='btn btn-primary' href=' "+arg[0]+" ' style='background-color: #ffffff00;'><b>ABRIR 1</b></a> <a class='btn btn-primary' href=' "+arg[1]+" ' style='background-color: #ffffff00;'><b>ABRIR 2</b></a> <a class='btn btn-primary' href=' "+arg[2]+" ' style='background-color: #ffffff00;'><b>ABRIR 3</b></a><!-- <a class='btn btn-primary' href=' "+arg[3]+" ' style='background-color: #ffffff00;'><b>ABRIR 4</b></a>-->",
+"<a class='btn btn-primary' href=' "+arg[3]+" ' style='background-color: #ffffff00;'><b>ABRIR 1</b></a> <a class='btn btn-primary' href=' "+arg[4]+" ' style='background-color: #ffffff00;'><b>ABRIR 2</b></a> <a class='btn btn-primary' href=' "+arg[5]+" ' style='background-color: #ffffff00;'><b>ABRIR 3</b></a>",
+"<a class='btn btn-primary' href=' "+arg[6]+" ' style='background-color: #ffffff00;'><b>ABRIR 1</b></a> <a class='btn btn-primary' href=' "+arg[7]+" ' style='background-color: #ffffff00;'><b>ABRIR 2</b></a> <a class='btn btn-primary' href=' "+arg[8]+" ' style='background-color: #ffffff00;'><b>ABRIR 3</b></a>",
+"<a class='btn btn-primary' href=' "+arg[9]+" ' style='background-color: #ffffff00;'><b>ABRIR 1</b></a> "
 
+];
 let ACol = [
 "<a class='btn btn-primary' href=' "+col[0]+" ' style='background-color: #ffffff00;'><b>ABRIR 1</b></a> <a class='btn btn-primary' href=' "+col[1]+" ' style='background-color: #ffffff00;'><b>ABRIR 2</b></a>",
 "<a class='btn btn-primary' href=' "+col[2]+" ' style='background-color: #ffffff00;'><b>ABRIR 3</b></a>"
