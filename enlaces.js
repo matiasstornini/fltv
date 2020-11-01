@@ -68,3 +68,6 @@ let ACol = [
 let AMex = [
 "<a class='btn btn-primary' href=' "+mex[0]+" ' style='background-color: #ffffff00;'><b>ABRIR 1</b></a> <a class='btn btn-primary' href=' "+mex[1]+" ' style='background-color: #ffffff00;'><b>ABRIR 2</b></a>"
 ];
+let AExtra = [
+"<a class='btn btn-primary' href=' "+extra[0]+" ' style='background-color: #ffffff00;'><b>ABRIR 1</b></a>
+];
