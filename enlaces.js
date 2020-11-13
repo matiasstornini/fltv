@@ -48,7 +48,7 @@ let AEuro = [
 ];
 let AConmebol = [
 "<a class='btn btn-primary' href=' "+conmebol[0]+" ' style='background-color: #ffffff00;'><b>ABRIR 1</b></a> <a class='btn btn-primary' href=' "+conmebol[1]+" ' style='background-color: #ffffff00;'><b>ABRIR 2</b></a> <!--<a class='btn btn-primary' href=' "+conmebol[2]+" ' style='background-color: #ffffff00;'><b>ABRIR 3</b></a>-->",
-"<a class='btn btn-primary' href=' "+conmebol[2]+" ' style='background-color: #ffffff00;'><b>ABRIR 1</b></a> <a class='btn btn-primary' href=' "+conmebol[3]+" ' style='background-color: #ffffff00;'><b>ABRIR 2</b></a> <a class='btn btn-primary' href=' "+conmebol[3]+" ' style='background-color: #ffffff00;'><b>ABRIR 3</b></a>",
+"<a class='btn btn-primary' href=' "+conmebol[2]+" ' style='background-color: #ffffff00;'><b>ABRIR 1</b></a> <a class='btn btn-primary' href=' "+conmebol[3]+" ' style='background-color: #ffffff00;'><b>ABRIR 2</b></a> <a class='btn btn-primary' href=' "+conmebol[4]+" ' style='background-color: #ffffff00;'><b>ABRIR 3</b></a>",
 "<a class='btn btn-primary' href=' "+conmebol[6]+" ' style='background-color: #ffffff00;'><b>ABRIR 1</b></a> <a class='btn btn-primary' href=' "+conmebol[7]+" ' style='background-color: #ffffff00;'><b>ABRIR 2</b></a> <a class='btn btn-primary' href=' "+conmebol[8]+" ' style='background-color: #ffffff00;'><b>ABRIR 3</b></a>",
 "<a class='btn btn-primary' href=' "+conmebol[9]+" ' style='background-color: #ffffff00;'><b>ABRIR 1</b></a> <a class='btn btn-primary' href=' "+conmebol[10]+" ' style='background-color: #ffffff00;'><b>ABRIR 2</b></a> <a class='btn btn-primary' href=' "+conmebol[11]+" ' style='background-color: #ffffff00;'><b>ABRIR 3</b></a>",
 
