@@ -90,6 +90,7 @@ let AMex = [
 "<a class='btn btn-primary' href=' "+mex[2]+" ' style='background-color: #ffffff00;'><b>ABRIR 1</b></a>"
 ];
 
-let AExit = [
-"<a class='btn btn-primary' href=' "+exit[0]+" ' style='background-color: #ffffff00;'><b>ABRIR (WebCast- Prueba)</b></a>"
+let AGo = [
+"<a class='btn btn-primary' href=' "+go[0]+" ' style='background-color: #ffffff00;'><b>ABRIR (WebCast- Prueba)</b></a>",
+"<a class='btn btn-primary' href=' "+go[1]+" ' style='background-color: #ffffff00;'><b>Más</b></a>"  
 ];
