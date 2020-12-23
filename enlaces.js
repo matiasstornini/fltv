@@ -21,7 +21,12 @@ let AIta = [
 "<a class='btn btn-primary' href=' "+ita[2]+" ' style='background-color: #ffffff00;'><b>ABRIR 1</b></a> <a class='btn btn-primary' href=' "+ita[3]+" ' style='background-color: #ffffff00;'><b>ABRIR 2</b></a> <!--<a class='btn btn-primary' href=' "+ita[5]+" ' style='background-color: #ffffff00;'><b>ABRIR 3</b></a>-->",
 "<a class='btn btn-primary' href=' "+ita[6]+" ' style='background-color: #ffffff00;'><b>ABRIR 1</b></a> <a class='btn btn-primary' href=' "+ita[7]+" ' style='background-color: #ffffff00;'><b>ABRIR 2</b></a> <a class='btn btn-primary' href=' "+ita[8]+" ' style='background-color: #ffffff00;'><b>ABRIR 3</b></a>",
 
-"<a class='btn btn-primary' href=' "+ita[0]+" ' style='background-color: #ffffff00;'><b>ABRIR 1</b></a> ","<a class='btn btn-primary' href=' "+ita[1]+" ' style='background-color: #ffffff00;'><b>ABRIR 1</b></a> ","<a class='btn btn-primary' href=' "+ita[2]+" ' style='background-color: #ffffff00;'><b>ABRIR 1</b></a> "
+"<a class='btn btn-primary' href=' "+ita[0]+" ' style='background-color: #ffffff00;'><b>ABRIR 1</b></a> ",
+"<a class='btn btn-primary' href=' "+ita[1]+" ' style='background-color: #ffffff00;'><b>ABRIR 1</b></a> ",
+"<a class='btn btn-primary' href=' "+ita[2]+" ' style='background-color: #ffffff00;'><b>ABRIR 1</b></a> ",
+"<a class='btn btn-primary' href=' "+ita[3]+" ' style='background-color: #ffffff00;'><b>ABRIR 1</b></a> ",
+"<a class='btn btn-primary' href=' "+ita[4]+" ' style='background-color: #ffffff00;'><b>ABRIR 1</b></a> ",
+"<a class='btn btn-primary' href=' "+ita[5]+" ' style='background-color: #ffffff00;'><b>ABRIR 1</b></a> "
 ];
 
 let AAle = [
