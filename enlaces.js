@@ -3,7 +3,15 @@ let AEsp = [
 "<a class='btn btn-primary' href=' "+esp[3]+" ' style='background-color: #ffffff00;'><b>ABRIR 1</b></a> <a class='btn btn-primary' href=' "+esp[4]+" ' style='background-color: #ffffff00;'><b>ABRIR 2</b></a> <a class='btn btn-primary' href=' "+esp[5]+" ' style='background-color: #ffffff00;'><b>ABRIR 3</b></a>",
 "<a class='btn btn-primary' href=' "+esp[6]+" ' style='background-color: #ffffff00;'><b>ABRIR 1</b></a> <a class='btn btn-primary' href=' "+esp[7]+" ' style='background-color: #ffffff00;'><b>ABRIR 2</b></a> <a class='btn btn-primary' href=' "+esp[8]+" ' style='background-color: #ffffff00;'><b>ABRIR 3</b></a>",
 
-"<a class='btn btn-primary' href=' "+esp[0]+" ' style='background-color: #ffffff00;'><b>ABRIR 1</b></a> ","<a class='btn btn-primary' href=' "+esp[1]+" ' style='background-color: #ffffff00;'><b>ABRIR 1</b></a> ","<a class='btn btn-primary' href=' "+esp[2]+" ' style='background-color: #ffffff00;'><b>ABRIR 1</b></a> ","<a class='btn btn-primary' href=' "+esp[3]+" ' style='background-color: #ffffff00;'><b>ABRIR 1</b></a> ","<a class='btn btn-primary' href=' "+esp[4]+" ' style='background-color: #ffffff00;'><b>ABRIR 1</b></a> ","<a class='btn btn-primary' href=' "+esp[5]+" ' style='background-color: #ffffff00;'><b>ABRIR 1</b></a> "
+"<a class='btn btn-primary' href=' "+esp[0]+" ' style='background-color: #ffffff00;'><b>ABRIR 1</b></a> ",
+"<a class='btn btn-primary' href=' "+esp[1]+" ' style='background-color: #ffffff00;'><b>ABRIR 1</b></a> ",
+"<a class='btn btn-primary' href=' "+esp[2]+" ' style='background-color: #ffffff00;'><b>ABRIR 1</b></a> ",
+"<a class='btn btn-primary' href=' "+esp[3]+" ' style='background-color: #ffffff00;'><b>ABRIR 1</b></a> ",
+"<a class='btn btn-primary' href=' "+esp[4]+" ' style='background-color: #ffffff00;'><b>ABRIR 1</b></a> ",
+"<a class='btn btn-primary' href=' "+esp[5]+" ' style='background-color: #ffffff00;'><b>ABRIR 1</b></a> ",
+"<a class='btn btn-primary' href=' "+esp[6]+" ' style='background-color: #ffffff00;'><b>ABRIR 1</b></a> ",
+"<a class='btn btn-primary' href=' "+esp[7]+" ' style='background-color: #ffffff00;'><b>ABRIR 1</b></a> ",
+"<a class='btn btn-primary' href=' "+esp[8]+" ' style='background-color: #ffffff00;'><b>ABRIR 1</b></a> "
 
 ];
 
