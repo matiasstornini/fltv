@@ -19,7 +19,16 @@ background: rgba(#000, .06);
   /*background-color: red;*/
   color: white;
   text-align: center;
+  z-index: 100;
 }
+
+  .md-card {
+    width: 80%;
+    height: 160px;
+    margin: 4px;
+    display: inline-block;
+    vertical-align: top;
+  }
       </style>
       <meta charset="utf-8">
       <meta content="width=device-width,initial-scale=1,minimal-ui" name="viewport">
@@ -32,31 +41,50 @@ background: rgba(#000, .06);
       <link rel="stylesheet" href="https://unpkg.com/vue-material/dist/theme/default.css"><script type="text/javascript">var url="https://pirlotv3.herokuapp.com/full/app/"; </script>
    </head>
    <body  style="-moz-user-select: none; -webkit-user-select: none; -ms-user-select:none; user-select:none;-o-user-select:none;" unselectable="on" onselectstart="return false;" onmousedown="return false;">
-
+      <!-- <h4 class="md-display-4" align="center">PirloTV</h4> -->
+      <div style="text-align: center;"><span class="md-display-4">PIRLOTV</span></div>
 
       <div id="app">
          <div id="bottom-bar-item-home" >
             <div class="kemikegmoiegk">
-               <h4 class="md-display-4" align="center">PirloTV</h4>
+               
                <div id="demo2"></div><br><br><br>
             </div>
          </div>
 
-         <div id="bottom-bar-item-posts" style="display:none;">Posts</div>
-<template>
-  <div>
-   <div class="footer">
-    <div class="phone-viewport" md-type="fixed">
-      <md-bottom-bar md-type="shift">
-        <md-bottom-bar-item id="bottom-bar-item-home" onclick="home();cposts();" md-label="Home" md-icon="home" ></md-bottom-bar-item>
-        <md-bottom-bar-item id="bottom-bar-item-posts" onclick="posts();chome();" md-label="Posts" md-icon="whatshot"></md-bottom-bar-item>
-        <md-bottom-bar-item id="bottom-bar-item-pages" md-label="Pages" md-icon="pages" disabled></md-bottom-bar-item>
-        <md-bottom-bar-item id="bottom-bar-item-favorites" md-label="Favorites" md-icon="favorite" disabled></md-bottom-bar-item>
-      </md-bottom-bar>
-    </div>
-   </div>
-  </div>
-</template>
+         <div id="bottom-bar-item-posts" style="display:none;"><br>
+            <div class="kemikegmoiegk">
+             <md-card>
+               <md-card-header>
+                 <div class="md-title">Estadisticas</div>
+               </md-card-header>
+
+               <md-card-content>
+                 Mira las estadisticas EN DIRECTO de tus equipos y competiciones favoritas.
+               </md-card-content>
+
+               <md-card-actions>
+                 <!-- <md-button>Action</md-button> -->
+                 <md-button href="go:est-lig">Abrir</md-button>
+               </md-card-actions>
+             </md-card>
+            </div>
+         </div>
+
+      <template>
+        <div>
+         <div class="footer">
+          <div class="phone-viewport" md-type="fixed">
+            <md-bottom-bar md-type="shift">
+              <md-bottom-bar-item id="bottom-bar-item-home" onclick="home();cposts();" md-label="Home" md-icon="home" ></md-bottom-bar-item>
+              <md-bottom-bar-item id="bottom-bar-item-posts" onclick="posts();chome();" md-label="Posts" md-icon="whatshot"></md-bottom-bar-item>
+              <md-bottom-bar-item id="bottom-bar-item-pages" md-label="Pages" md-icon="pages" disabled></md-bottom-bar-item>
+              <md-bottom-bar-item id="bottom-bar-item-favorites" md-label="Favorites" md-icon="favorite" disabled></md-bottom-bar-item>
+            </md-bottom-bar>
+          </div>
+         </div>
+        </div>
+      </template>
 
 <script languague="javascript">
         function home() {
