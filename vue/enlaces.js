@@ -1,120 +1,120 @@
 let AEsp = [
-"<md-button class='md-raised md-primary' href=' "+esp[0]+" ' ><b>ABRIR 1</b></md-button> <a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+esp[1]+" ' ><b>ABRIR 2</b></md-button> <a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+esp[2]+" ' ><b>ABRIR 3</b></md-button><!-- <a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+esp[3]+" ' ><b>ABRIR 4</b></md-button>-->",
-"<md-button class='md-raised md-primary'href=' "+esp[3]+" ' ><b>ABRIR 1</b></md-button> <a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+esp[4]+" ' ><b>ABRIR 2</b></md-button> <a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+esp[5]+" ' ><b>ABRIR 3</b></md-button>",
-"<md-button class='md-raised md-primary'href=' "+esp[6]+" ' ><b>ABRIR 1</b></md-button> <a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+esp[7]+" ' ><b>ABRIR 2</b></md-button> <a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+esp[8]+" ' ><b>ABRIR 3</b></md-button>",
+"<md-button class='md-raised md-primary' href=' "+esp[0]+" ' >ABRIR 1</md-button> <md-button class='md-raised md-primary'href='  href=' "+esp[1]+" ' >ABRIR 2</md-button> <md-button class='md-raised md-primary'href='  href=' "+esp[2]+" ' >ABRIR 3</md-button><!-- <md-button class='md-raised md-primary'href='  href=' "+esp[3]+" ' >ABRIR 4</md-button>-->",
+"<md-button class='md-raised md-primary'href=' "+esp[3]+" ' >ABRIR 1</md-button> <md-button class='md-raised md-primary'href='  href=' "+esp[4]+" ' >ABRIR 2</md-button> <md-button class='md-raised md-primary'href='  href=' "+esp[5]+" ' >ABRIR 3</md-button>",
+"<md-button class='md-raised md-primary'href=' "+esp[6]+" ' >ABRIR 1</md-button> <md-button class='md-raised md-primary'href='  href=' "+esp[7]+" ' >ABRIR 2</md-button> <md-button class='md-raised md-primary'href='  href=' "+esp[8]+" ' >ABRIR 3</md-button>",
 
-"<md-button class='md-raised md-primary'href=' "+esp[0]+" ' ><b>ABRIR 1</b></md-button> ",
-"<md-button class='md-raised md-primary'href=' "+esp[1]+" ' ><b>ABRIR 1</b></md-button> ",
-"<md-button class='md-raised md-primary'href=' "+esp[2]+" ' ><b>ABRIR 1</b></md-button> ",
+"<md-button class='md-raised md-primary'href=' "+esp[0]+" ' >ABRIR 1</md-button> ",
+"<md-button class='md-raised md-primary'href=' "+esp[1]+" ' >ABRIR 1</md-button> ",
+"<md-button class='md-raised md-primary'href=' "+esp[2]+" ' >ABRIR 1</md-button> ",
 
-"<md-button class='md-raised md-primary'href=' "+esp[3]+" ' ><b>ABRIR 1</b></md-button> ",
-"<md-button class='md-raised md-primary'href=' "+esp[4]+" ' ><b>ABRIR 1</b></md-button> ",
-"<md-button class='md-raised md-primary'href=' "+esp[5]+" ' ><b>ABRIR 1</b></md-button> ",
+"<md-button class='md-raised md-primary'href=' "+esp[3]+" ' >ABRIR 1</md-button> ",
+"<md-button class='md-raised md-primary'href=' "+esp[4]+" ' >ABRIR 1</md-button> ",
+"<md-button class='md-raised md-primary'href=' "+esp[5]+" ' >ABRIR 1</md-button> ",
 
-"<md-button class='md-raised md-primary'href=' "+esp[6]+" ' ><b>ABRIR 1</b></md-button> ",
-"<md-button class='md-raised md-primary'href=' "+esp[7]+" ' ><b>ABRIR 1</b></md-button> ",
-"<md-button class='md-raised md-primary'href=' "+esp[8]+" ' ><b>ABRIR 1</b></md-button> "
+"<md-button class='md-raised md-primary'href=' "+esp[6]+" ' >ABRIR 1</md-button> ",
+"<md-button class='md-raised md-primary'href=' "+esp[7]+" ' >ABRIR 1</md-button> ",
+"<md-button class='md-raised md-primary'href=' "+esp[8]+" ' >ABRIR 1</md-button> "
 
 ];
 
 let AIng = [
-"<md-button class='md-raised md-primary'href=' "+ing[0]+" ' ><b>ABRIR 1</b></md-button> <a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+ing[1]+" ' ><b>ABRIR 2</b></md-button> <!--<a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+ing[2]+" ' ><b>ABRIR 3</b></md-button>-->",
-"<md-button class='md-raised md-primary'href=' "+ing[2]+" ' ><b>ABRIR 1</b></md-button> <a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+ing[3]+" ' ><b>ABRIR 2</b></md-button> <!--<a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+ing[5]+" ' ><b>ABRIR 3</b></md-button>-->",
-"<md-button class='md-raised md-primary'href=' "+ing[4]+" ' ><b>ABRIR 1</b></md-button> <a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+ing[5]+" ' ><b>ABRIR 2</b></md-button> <!--<a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+ing[8]+" ' ><b>ABRIR 3</b></md-button>-->",
+"<md-button class='md-raised md-primary'href=' "+ing[0]+" ' >ABRIR 1</md-button> <md-button class='md-raised md-primary'href='  href=' "+ing[1]+" ' >ABRIR 2</md-button> <!--<md-button class='md-raised md-primary'href='  href=' "+ing[2]+" ' >ABRIR 3</md-button>-->",
+"<md-button class='md-raised md-primary'href=' "+ing[2]+" ' >ABRIR 1</md-button> <md-button class='md-raised md-primary'href='  href=' "+ing[3]+" ' >ABRIR 2</md-button> <!--<md-button class='md-raised md-primary'href='  href=' "+ing[5]+" ' >ABRIR 3</md-button>-->",
+"<md-button class='md-raised md-primary'href=' "+ing[4]+" ' >ABRIR 1</md-button> <md-button class='md-raised md-primary'href='  href=' "+ing[5]+" ' >ABRIR 2</md-button> <!--<md-button class='md-raised md-primary'href='  href=' "+ing[8]+" ' >ABRIR 3</md-button>-->",
 
-"<md-button class='md-raised md-primary'href=' "+ing[0]+" ' ><b>ABRIR 1</b></md-button> ",
-"<md-button class='md-raised md-primary'href=' "+ing[1]+" ' ><b>ABRIR 1</b></md-button> ",
-"<md-button class='md-raised md-primary'href=' "+ing[2]+" ' ><b>ABRIR 1</b></md-button> "
+"<md-button class='md-raised md-primary'href=' "+ing[0]+" ' >ABRIR 1</md-button> ",
+"<md-button class='md-raised md-primary'href=' "+ing[1]+" ' >ABRIR 1</md-button> ",
+"<md-button class='md-raised md-primary'href=' "+ing[2]+" ' >ABRIR 1</md-button> "
 
 ];
 
 let AIta = [
-"<md-button class='md-raised md-primary'href=' "+ita[0]+" ' ><b>ABRIR 1</b></md-button> <a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+ita[1]+" ' ><b>ABRIR 2</b></md-button> <!--<a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+ita[2]+" ' ><b>ABRIR 3</b></md-button>-->",
-"<md-button class='md-raised md-primary'href=' "+ita[2]+" ' ><b>ABRIR 1</b></md-button> <a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+ita[3]+" ' ><b>ABRIR 2</b></md-button> <!--<a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+ita[5]+" ' ><b>ABRIR 3</b></md-button>-->",
-"<md-button class='md-raised md-primary'href=' "+ita[6]+" ' ><b>ABRIR 1</b></md-button> <a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+ita[7]+" ' ><b>ABRIR 2</b></md-button> <a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+ita[8]+" ' ><b>ABRIR 3</b></md-button>",
-"<md-button class='md-raised md-primary'href=' "+ita[0]+" ' ><b>ABRIR 1</b></md-button> ",
-"<md-button class='md-raised md-primary'href=' "+ita[1]+" ' ><b>ABRIR 1</b></md-button> ",
-"<md-button class='md-raised md-primary'href=' "+ita[2]+" ' ><b>ABRIR 1</b></md-button> ",
-"<md-button class='md-raised md-primary'href=' "+ita[3]+" ' ><b>ABRIR 1</b></md-button> ",
-"<md-button class='md-raised md-primary'href=' "+ita[4]+" ' ><b>ABRIR 1</b></md-button> ",
-"<md-button class='md-raised md-primary'href=' "+ita[5]+" ' ><b>ABRIR 1</b></md-button> "
+"<md-button class='md-raised md-primary'href=' "+ita[0]+" ' >ABRIR 1</md-button> <md-button class='md-raised md-primary'href='  href=' "+ita[1]+" ' >ABRIR 2</md-button> <!--<md-button class='md-raised md-primary'href='  href=' "+ita[2]+" ' >ABRIR 3</md-button>-->",
+"<md-button class='md-raised md-primary'href=' "+ita[2]+" ' >ABRIR 1</md-button> <md-button class='md-raised md-primary'href='  href=' "+ita[3]+" ' >ABRIR 2</md-button> <!--<md-button class='md-raised md-primary'href='  href=' "+ita[5]+" ' >ABRIR 3</md-button>-->",
+"<md-button class='md-raised md-primary'href=' "+ita[6]+" ' >ABRIR 1</md-button> <md-button class='md-raised md-primary'href='  href=' "+ita[7]+" ' >ABRIR 2</md-button> <md-button class='md-raised md-primary'href='  href=' "+ita[8]+" ' >ABRIR 3</md-button>",
+"<md-button class='md-raised md-primary'href=' "+ita[0]+" ' >ABRIR 1</md-button> ",
+"<md-button class='md-raised md-primary'href=' "+ita[1]+" ' >ABRIR 1</md-button> ",
+"<md-button class='md-raised md-primary'href=' "+ita[2]+" ' >ABRIR 1</md-button> ",
+"<md-button class='md-raised md-primary'href=' "+ita[3]+" ' >ABRIR 1</md-button> ",
+"<md-button class='md-raised md-primary'href=' "+ita[4]+" ' >ABRIR 1</md-button> ",
+"<md-button class='md-raised md-primary'href=' "+ita[5]+" ' >ABRIR 1</md-button> "
 ];
 
 let AAle = [
-"<md-button class='md-raised md-primary'href=' "+ale[0]+" ' ><b>ABRIR 1</b></md-button> <a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+ale[1]+" ' ><b>ABRIR 2</b></md-button> <a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+ale[2]+" ' ><b>ABRIR 3</b></md-button>",
-"<md-button class='md-raised md-primary'href=' "+ale[2]+" ' ><b>ABRIR 1</b></md-button> <a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+ale[3]+" ' ><b>ABRIR 2</b></md-button> <!--<a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+ale[5]+" ' ><b>ABRIR 3</b></md-button>-->",
-"<md-button class='md-raised md-primary'href=' "+ale[6]+" ' ><b>ABRIR 1</b></md-button> <a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+ale[7]+" ' ><b>ABRIR 2</b></md-button> <a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+ale[8]+" ' ><b>ABRIR 3</b></md-button>"
+"<md-button class='md-raised md-primary'href=' "+ale[0]+" ' >ABRIR 1</md-button> <md-button class='md-raised md-primary'href='  href=' "+ale[1]+" ' >ABRIR 2</md-button> <md-button class='md-raised md-primary'href='  href=' "+ale[2]+" ' >ABRIR 3</md-button>",
+"<md-button class='md-raised md-primary'href=' "+ale[2]+" ' >ABRIR 1</md-button> <md-button class='md-raised md-primary'href='  href=' "+ale[3]+" ' >ABRIR 2</md-button> <!--<md-button class='md-raised md-primary'href='  href=' "+ale[5]+" ' >ABRIR 3</md-button>-->",
+"<md-button class='md-raised md-primary'href=' "+ale[6]+" ' >ABRIR 1</md-button> <md-button class='md-raised md-primary'href='  href=' "+ale[7]+" ' >ABRIR 2</md-button> <md-button class='md-raised md-primary'href='  href=' "+ale[8]+" ' >ABRIR 3</md-button>"
 
 ];
 let AFra = [
-"<md-button class='md-raised md-primary'href=' "+fra[0]+" ' ><b>ABRIR 1</b></md-button> <a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+fra[1]+" ' ><b>ABRIR 2</b></md-button> <!--<a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+fra[2]+" ' ><b>ABRIR 3</b></md-button>-->",
-"<md-button class='md-raised md-primary'href=' "+fra[2]+" ' ><b>ABRIR 1</b></md-button> <a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+fra[3]+" ' ><b>ABRIR 2</b></md-button> <!--<a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+fra[5]+" ' ><b>ABRIR 3</b></md-button>-->",
-"<md-button class='md-raised md-primary'href=' "+fra[6]+" ' ><b>ABRIR 1</b></md-button> <a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+fra[7]+" ' ><b>ABRIR 2</b></md-button> <a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+fra[8]+" ' ><b>ABRIR 3</b></md-button>"
+"<md-button class='md-raised md-primary'href=' "+fra[0]+" ' >ABRIR 1</md-button> <md-button class='md-raised md-primary'href='  href=' "+fra[1]+" ' >ABRIR 2</md-button> <!--<md-button class='md-raised md-primary'href='  href=' "+fra[2]+" ' >ABRIR 3</md-button>-->",
+"<md-button class='md-raised md-primary'href=' "+fra[2]+" ' >ABRIR 1</md-button> <md-button class='md-raised md-primary'href='  href=' "+fra[3]+" ' >ABRIR 2</md-button> <!--<md-button class='md-raised md-primary'href='  href=' "+fra[5]+" ' >ABRIR 3</md-button>-->",
+"<md-button class='md-raised md-primary'href=' "+fra[6]+" ' >ABRIR 1</md-button> <md-button class='md-raised md-primary'href='  href=' "+fra[7]+" ' >ABRIR 2</md-button> <md-button class='md-raised md-primary'href='  href=' "+fra[8]+" ' >ABRIR 3</md-button>"
 
 ];
 let AUcl = [
-"<md-button class='md-raised md-primary'href=' "+champions[0]+" ' ><b>ABRIR 1</b></md-button> <a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+champions[1]+" ' ><b>ABRIR 2</b></md-button> <a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+champions[2]+" ' ><b>ABRIR 3</b></md-button>",
-"<md-button class='md-raised md-primary'href=' "+champions[3]+" ' ><b>ABRIR 1</b></md-button> <a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+champions[4]+" ' ><b>ABRIR 2</b></md-button> <a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+champions[5]+" ' ><b>ABRIR 3</b></md-button>",
-"<md-button class='md-raised md-primary'href=' "+champions[6]+" ' ><b>ABRIR 1</b></md-button> <a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+champions[7]+" ' ><b>ABRIR 2</b></md-button> <a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+champions[8]+" ' ><b>ABRIR 3</b></md-button>",
-"<md-button class='md-raised md-primary'href=' "+champions[9]+" ' ><b>ABRIR 1</b></md-button> <a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+champions[10]+" ' ><b>ABRIR 2</b></md-button> <a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+champions[11]+" ' ><b>ABRIR 3</b></md-button>"
+"<md-button class='md-raised md-primary'href=' "+champions[0]+" ' >ABRIR 1</md-button> <md-button class='md-raised md-primary'href='  href=' "+champions[1]+" ' >ABRIR 2</md-button> <md-button class='md-raised md-primary'href='  href=' "+champions[2]+" ' >ABRIR 3</md-button>",
+"<md-button class='md-raised md-primary'href=' "+champions[3]+" ' >ABRIR 1</md-button> <md-button class='md-raised md-primary'href='  href=' "+champions[4]+" ' >ABRIR 2</md-button> <md-button class='md-raised md-primary'href='  href=' "+champions[5]+" ' >ABRIR 3</md-button>",
+"<md-button class='md-raised md-primary'href=' "+champions[6]+" ' >ABRIR 1</md-button> <md-button class='md-raised md-primary'href='  href=' "+champions[7]+" ' >ABRIR 2</md-button> <md-button class='md-raised md-primary'href='  href=' "+champions[8]+" ' >ABRIR 3</md-button>",
+"<md-button class='md-raised md-primary'href=' "+champions[9]+" ' >ABRIR 1</md-button> <md-button class='md-raised md-primary'href='  href=' "+champions[10]+" ' >ABRIR 2</md-button> <md-button class='md-raised md-primary'href='  href=' "+champions[11]+" ' >ABRIR 3</md-button>"
 
 ];
 let AEuro = [
-"<md-button class='md-raised md-primary'href=' "+euro[0]+" ' ><b>ABRIR 1</b></md-button> <a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+euro[1]+" ' ><b>ABRIR 2</b></md-button>",
-"<md-button class='md-raised md-primary'href=' "+euro[0]+" ' ><b>ABRIR 1</b></md-button>",
-"<md-button class='md-raised md-primary'href=' "+euro[1]+" ' ><b>ABRIR 2</b></md-button>"
+"<md-button class='md-raised md-primary'href=' "+euro[0]+" ' >ABRIR 1</md-button> <md-button class='md-raised md-primary'href='  href=' "+euro[1]+" ' >ABRIR 2</md-button>",
+"<md-button class='md-raised md-primary'href=' "+euro[0]+" ' >ABRIR 1</md-button>",
+"<md-button class='md-raised md-primary'href=' "+euro[1]+" ' >ABRIR 2</md-button>"
 ];
 let AConmebol = [
-"<md-button class='md-raised md-primary'href=' "+conmebol[0]+" ' ><b>ABRIR 1</b></md-button> <a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+conmebol[1]+" ' ><b>ABRIR 2</b></md-button> <!--<a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+conmebol[2]+" ' ><b>ABRIR 3</b></md-button>-->",
+"<md-button class='md-raised md-primary'href=' "+conmebol[0]+" ' >ABRIR 1</md-button> <md-button class='md-raised md-primary'href='  href=' "+conmebol[1]+" ' >ABRIR 2</md-button> <!--<md-button class='md-raised md-primary'href='  href=' "+conmebol[2]+" ' >ABRIR 3</md-button>-->",
 
-"<md-button class='md-raised md-primary'href=' "+conmebol[2]+" ' ><b>ABRIR 1</b></md-button> <a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+conmebol[3]+" ' ><b>ABRIR 2</b></md-button> <a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+conmebol[4]+" ' ><b>ABRIR 3</b></md-button>",
+"<md-button class='md-raised md-primary'href=' "+conmebol[2]+" ' >ABRIR 1</md-button> <md-button class='md-raised md-primary'href='  href=' "+conmebol[3]+" ' >ABRIR 2</md-button> <md-button class='md-raised md-primary'href='  href=' "+conmebol[4]+" ' >ABRIR 3</md-button>",
 
-"<md-button class='md-raised md-primary'href=' "+conmebol[5]+" ' ><b>ABRIR 1</b></md-button> <a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+conmebol[6]+" ' ><b>ABRIR 2</b></md-button> ",
+"<md-button class='md-raised md-primary'href=' "+conmebol[5]+" ' >ABRIR 1</md-button> <md-button class='md-raised md-primary'href='  href=' "+conmebol[6]+" ' >ABRIR 2</md-button> ",
 
-"<md-button class='md-raised md-primary'href=' "+conmebol[9]+" ' ><b>ABRIR 1</b></md-button> <a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+conmebol[10]+" ' ><b>ABRIR 2</b></md-button> <a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+conmebol[11]+" ' ><b>ABRIR 3</b></md-button>",
+"<md-button class='md-raised md-primary'href=' "+conmebol[9]+" ' >ABRIR 1</md-button> <md-button class='md-raised md-primary'href='  href=' "+conmebol[10]+" ' >ABRIR 2</md-button> <md-button class='md-raised md-primary'href='  href=' "+conmebol[11]+" ' >ABRIR 3</md-button>",
 
 ];
 let ALib = [
-"<md-button class='md-raised md-primary'href=' "+lib[0]+" ' ><b>ABRIR 1</b></md-button> <a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+lib[1]+" ' ><b>ABRIR 2</b></md-button> <a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+lib[2]+" ' ><b>ABRIR 3</b></md-button>",
-"<md-button class='md-raised md-primary'href=' "+lib[3]+" ' ><b>ABRIR 1</b></md-button> <a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+lib[4]+" ' ><b>ABRIR 2</b></md-button> <a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+lib[5]+" ' ><b>ABRIR 3</b></md-button>",
-"<md-button class='md-raised md-primary'href=' "+lib[6]+" ' ><b>ABRIR 1</b></md-button> <a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+lib[7]+" ' ><b>ABRIR 2</b></md-button> <a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+lib[8]+" ' ><b>ABRIR 3</b></md-button>",
-"<md-button class='md-raised md-primary'href=' "+lib[9]+" ' ><b>ABRIR 1</b></md-button> <a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+lib[10]+" ' ><b>ABRIR 2</b></md-button> <a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+lib[11]+" ' ><b>ABRIR 3</b></md-button>",
+"<md-button class='md-raised md-primary'href=' "+lib[0]+" ' >ABRIR 1</md-button> <md-button class='md-raised md-primary'href='  href=' "+lib[1]+" ' >ABRIR 2</md-button> <md-button class='md-raised md-primary'href='  href=' "+lib[2]+" ' >ABRIR 3</md-button>",
+"<md-button class='md-raised md-primary'href=' "+lib[3]+" ' >ABRIR 1</md-button> <md-button class='md-raised md-primary'href='  href=' "+lib[4]+" ' >ABRIR 2</md-button> <md-button class='md-raised md-primary'href='  href=' "+lib[5]+" ' >ABRIR 3</md-button>",
+"<md-button class='md-raised md-primary'href=' "+lib[6]+" ' >ABRIR 1</md-button> <md-button class='md-raised md-primary'href='  href=' "+lib[7]+" ' >ABRIR 2</md-button> <md-button class='md-raised md-primary'href='  href=' "+lib[8]+" ' >ABRIR 3</md-button>",
+"<md-button class='md-raised md-primary'href=' "+lib[9]+" ' >ABRIR 1</md-button> <md-button class='md-raised md-primary'href='  href=' "+lib[10]+" ' >ABRIR 2</md-button> <md-button class='md-raised md-primary'href='  href=' "+lib[11]+" ' >ABRIR 3</md-button>",
 
 ];
 let AArg = [
-"<md-button class='md-raised md-primary'href=' "+arg[0]+" ' ><b>ABRIR 1</b></md-button> <a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+arg[1]+" ' ><b>ABRIR 2</b></md-button> <a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+arg[2]+" ' ><b>ABRIR 3</b></md-button>",
-"<md-button class='md-raised md-primary'href=' "+arg[3]+" ' ><b>ABRIR 1</b></md-button> <a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+arg[4]+" ' ><b>ABRIR 2</b></md-button> <a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+arg[5]+" ' ><b>ABRIR 3</b></md-button>",
-"<md-button class='md-raised md-primary'href=' "+arg[6]+" ' ><b>ABRIR 1</b></md-button> <a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+arg[7]+" ' ><b>ABRIR 2</b></md-button> <a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+esp[8]+" ' ><b>ABRIR 3</b></md-button>",
+"<md-button class='md-raised md-primary'href=' "+arg[0]+" ' >ABRIR 1</md-button> <md-button class='md-raised md-primary'href='  href=' "+arg[1]+" ' >ABRIR 2</md-button> <md-button class='md-raised md-primary'href='  href=' "+arg[2]+" ' >ABRIR 3</md-button>",
+"<md-button class='md-raised md-primary'href=' "+arg[3]+" ' >ABRIR 1</md-button> <md-button class='md-raised md-primary'href='  href=' "+arg[4]+" ' >ABRIR 2</md-button> <md-button class='md-raised md-primary'href='  href=' "+arg[5]+" ' >ABRIR 3</md-button>",
+"<md-button class='md-raised md-primary'href=' "+arg[6]+" ' >ABRIR 1</md-button> <md-button class='md-raised md-primary'href='  href=' "+arg[7]+" ' >ABRIR 2</md-button> <md-button class='md-raised md-primary'href='  href=' "+esp[8]+" ' >ABRIR 3</md-button>",
 
-"<md-button class='md-raised md-primary'href=' "+arg[0]+" ' ><b>ABRIR 1</b></md-button> ",
-"<md-button class='md-raised md-primary'href=' "+arg[1]+" ' ><b>ABRIR 1</b></md-button> ",
-"<md-button class='md-raised md-primary'href=' "+arg[2]+" ' ><b>ABRIR 1</b></md-button> ",
+"<md-button class='md-raised md-primary'href=' "+arg[0]+" ' >ABRIR 1</md-button> ",
+"<md-button class='md-raised md-primary'href=' "+arg[1]+" ' >ABRIR 1</md-button> ",
+"<md-button class='md-raised md-primary'href=' "+arg[2]+" ' >ABRIR 1</md-button> ",
 
-"<md-button class='md-raised md-primary'href=' "+arg[3]+" ' ><b>ABRIR 1</b></md-button> ",
-"<md-button class='md-raised md-primary'href=' "+arg[4]+" ' ><b>ABRIR 1</b></md-button> ",
-"<md-button class='md-raised md-primary'href=' "+arg[5]+" ' ><b>ABRIR 1</b></md-button> "
+"<md-button class='md-raised md-primary'href=' "+arg[3]+" ' >ABRIR 1</md-button> ",
+"<md-button class='md-raised md-primary'href=' "+arg[4]+" ' >ABRIR 1</md-button> ",
+"<md-button class='md-raised md-primary'href=' "+arg[5]+" ' >ABRIR 1</md-button> "
 
 ];
 
 let ACol = [
-"<md-button class='md-raised md-primary'href=' "+col[0]+" ' ><b>ABRIR 1</b></md-button> <md-button class='md-raised md-primary' href=' "+col[1]+" ' ><b>ABRIR 2</b></md-button>",
+"<md-button class='md-raised md-primary'href=' "+col[0]+" ' >ABRIR 1</md-button> <md-button class='md-raised md-primary' href=' "+col[1]+" ' >ABRIR 2</md-button>",
 
-"<md-button class='md-raised md-primary'href=' "+col[2]+" ' ><b>ABRIR 3</b></md-button>",
+"<md-button class='md-raised md-primary'href=' "+col[2]+" ' >ABRIR 3</md-button>",
 
-"<md-button class='md-raised md-primary'href=' "+col[0]+" ' ><b>ABRIR 1</b></md-button>",
-"<md-button class='md-raised md-primary'href=' "+col[1]+" ' ><b>ABRIR 2</b></md-button>",
-"<md-button class='md-raised md-primary'href=' "+col[2]+" ' ><b>ABRIR 3</b></md-button>"
+"<md-button class='md-raised md-primary'href=' "+col[0]+" ' >ABRIR 1</md-button>",
+"<md-button class='md-raised md-primary'href=' "+col[1]+" ' >ABRIR 2</md-button>",
+"<md-button class='md-raised md-primary'href=' "+col[2]+" ' >ABRIR 3</md-button>"
 ];
 
 let AMex = [
-"<md-button class='md-raised md-primary'href=' "+mex[0]+" ' ><b>ABRIR 1</b></md-button> <a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+mex[1]+" ' ><b>ABRIR 2</b></md-button>",
+"<md-button class='md-raised md-primary'href=' "+mex[0]+" ' >ABRIR 1</md-button> <md-button class='md-raised md-primary'href='  href=' "+mex[1]+" ' >ABRIR 2</md-button>",
 
-"<md-button class='md-raised md-primary'href=' "+mex[0]+" ' ><b>ABRIR 1</b></md-button>",
-"<md-button class='md-raised md-primary'href=' "+mex[1]+" ' ><b>ABRIR 2</b></md-button>",
-"<md-button class='md-raised md-primary'href=' "+mex[2]+" ' ><b>ABRIR 1</b></md-button>"
+"<md-button class='md-raised md-primary'href=' "+mex[0]+" ' >ABRIR 1</md-button>",
+"<md-button class='md-raised md-primary'href=' "+mex[1]+" ' >ABRIR 2</md-button>",
+"<md-button class='md-raised md-primary'href=' "+mex[2]+" ' >ABRIR 1</md-button>"
 ];
 
 let AGo = [
-"<md-button class='md-raised md-primary'href=' "+go[0]+" ' ><b>ABRIR (WebCast- Prueba)</b></md-button>",
-"<md-button class='md-raised md-primary'href=' "+go[1]+" ' ><b>Más</b></md-button>"
+"<md-button class='md-raised md-primary'href=' "+go[0]+" ' >ABRIR (WebCast- Prueba)</md-button>",
+"<md-button class='md-raised md-primary'href=' "+go[1]+" ' >Más</md-button>"
 ];
