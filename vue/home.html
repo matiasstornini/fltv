@@ -1,6 +1,9 @@
 <html>
    <head>
-      <style>
+      <style>  @include md-register-theme("bottom-bar-red", (
+    primary: md-get-palette-color(red, A200)
+  ));
+
 .display-4{font-size:3.5rem;font-weight:300;line-height:1.1}.kemikegmoiegk {position:relative;margin-left:auto;margin-right:auto;padding-right:15px;padding-left:15px}
 .phone-viewport {
 width: 100%;
@@ -70,19 +73,38 @@ background: rgba(#000, .06);
                  <md-button href="go:est-lig">Abrir</md-button>
                </md-card-actions>
              </md-card>
+             <md-card>
+               <md-card-header>
+                 <div class="md-title">Calendario</div>
+               </md-card-header>
+
+               <md-card-content>
+                 Mira los próximos partidos de tu equipo o de tu competición favorita.
+               </md-card-content>
+
+               <md-card-actions>
+                 <!-- <md-button>Action</md-button> -->
+                 <md-button href="go:est-lig">Abrir</md-button>
+               </md-card-actions>
+             </md-card>
             </div>
          </div>
-
+         <div id="bottom-bar-item-feedback"  style="display:none;">
+            <div class="kemikegmoiegk"> 
+                <iframe id="idf"src="https://docs.google.com/forms/d/e/1FAIpQLSfYjH1s3iFSM4OCyeHrRdS9VC3C-gXPLmAtNO-ncpNpl-LTfA/viewform?embedded=true" width="100%" height="673px" frameborder="0" marginheight="0"   marginwidth="0">Cargando…</iframe>
+            </div>
+         </div>
       <template>
         <div>
          <div class="footer">
           <div class="phone-viewport" md-type="fixed">
             <md-bottom-bar md-type="shift">
-              <md-bottom-bar-item id="bottom-bar-item-home" onclick="home();cposts();" md-label="Home" md-icon="home" ></md-bottom-bar-item>
-              <md-bottom-bar-item id="bottom-bar-item-posts" onclick="posts();chome();" md-label="Posts" md-icon="whatshot"></md-bottom-bar-item>
+              <md-bottom-bar-item id="bottom-bar-item-home" onclick="home();cposts();cfeedback();" md-label="Home" md-icon="home" ></md-bottom-bar-item>
+              <md-bottom-bar-item id="bottom-bar-item-posts" onclick="posts();chome();cfeedback();" md-label="Estadisticas" md-icon="calendar_today"></md-bottom-bar-item>
               <md-bottom-bar-item id="bottom-bar-item-pages" md-label="Pages" md-icon="pages" disabled></md-bottom-bar-item>
-              <md-bottom-bar-item id="bottom-bar-item-favorites" md-label="Favorites" md-icon="favorite" disabled></md-bottom-bar-item>
+              <md-bottom-bar-item id="bottom-bar-item-feedback" onclick="feedback();cposts();chome();" md-label="Comentarios" md-icon="feedback" @click="theme = 'red'"></md-bottom-bar-item>
             </md-bottom-bar>
+            
           </div>
          </div>
         </div>
@@ -97,6 +119,10 @@ background: rgba(#000, .06);
             div = document.getElementById('bottom-bar-item-posts');
             div.style.display = '';
         }
+        function feedback() {
+            div = document.getElementById('bottom-bar-item-feedback');
+            div.style.display = '';
+        }
         function chome() {
             div = document.getElementById('bottom-bar-item-home');
             div.style.display = 'none';
@@ -105,6 +131,13 @@ background: rgba(#000, .06);
             div = document.getElementById('bottom-bar-item-posts');
             div.style.display = 'none';
         }
+        function cfeedback() {
+            div = document.getElementById('bottom-bar-item-feedback');
+            div.style.display = 'none';
+        }
+
+        // 
+
 </script>
 
 </div>
