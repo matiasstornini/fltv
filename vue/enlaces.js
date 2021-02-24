@@ -118,3 +118,8 @@ let AGo = [
 "<md-button class='md-raised md-primary'href=' "+go[0]+" ' >ABRIR (WebCast- Prueba)</md-button>",
 "<md-button class='md-raised md-primary'href=' "+go[1]+" ' >Más</md-button>"
 ];
+
+let CPA = [
+"<md-button class='md-raised md-primary'href=' "+go[0]+" ' >ABRIR (WebCast- Prueba)</md-button>",
+"<md-button class='md-raised md-primary'href=' "+go[1]+" ' >Más</md-button>"
+];
