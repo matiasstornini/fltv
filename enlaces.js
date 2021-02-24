@@ -33,6 +33,13 @@ let AFra = [
 
 ];
 
+let AUcl = [
+"<a class='btn btn-primary' href=' "+ucl[0]+" ' style='background-color: #ffffff00;'><b>ABRIR 1</b></a> <a class='btn btn-primary' href=' "+ucl[1]+" ' style='background-color: #ffffff00;'><b>ABRIR 2</b></a> <!--<a class='btn btn-primary' href=' "+ucl[2]+" ' style='background-color: #ffffff00;'><b>ABRIR 3</b></a>-->",
+"<a class='btn btn-primary' href=' "+ucl[2]+" ' style='background-color: #ffffff00;'><b>ABRIR 1</b></a> <a class='btn btn-primary' href=' "+ucl[3]+" ' style='background-color: #ffffff00;'><b>ABRIR 2</b></a> <!--<a class='btn btn-primary' href=' "+ucl[5]+" ' style='background-color: #ffffff00;'><b>ABRIR 3</b></a>-->",
+"<a class='btn btn-primary' href=' "+ucl[6]+" ' style='background-color: #ffffff00;'><b>ABRIR 1</b></a> <a class='btn btn-primary' href=' "+ucl[7]+" ' style='background-color: #ffffff00;'><b>ABRIR 2</b></a> <a class='btn btn-primary' href=' "+ucl[8]+" ' style='background-color: #ffffff00;'><b>ABRIR 3</b></a>"
+
+];
+
 let AEuro = [
 "<a class='btn btn-primary' href=' "+euro[0]+" ' style='background-color: #ffffff00;'><b>ABRIR 1</b></a> <a class='btn btn-primary' href=' "+euro[1]+" ' style='background-color: #ffffff00;'><b>ABRIR 2</b></a>"
 ];
