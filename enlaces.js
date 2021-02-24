@@ -71,6 +71,6 @@ let AMex = [
 ];
 
 let CPA = [
-"<a class='btn btn-primary' href=' "+cpa[0]+" ' style='background-color: #ffffff00;'><b>ABRIR FHD</b></a>",
+"<a class='btn btn-primary' href=' "+cpa[0]+" ' style='background-color: #ffffff00;' target='_blank'><b>ABRIR FHD</b></a>",
 "<a class='btn btn-primary' href=' "+cpa[1]+" ' style='background-color: #ffffff00;'><b>ABRIR 2</b></a>"
 ];
