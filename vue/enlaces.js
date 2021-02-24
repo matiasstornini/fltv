@@ -120,6 +120,6 @@ let AGo = [
 ];
 
 let CPA = [
-"<md-button class='md-raised md-primary'href=' "+cpa[0]+" ' >ABRIR FHD</md-button>",
+"<md-button class='md-raised md-primary'href=' "+cpa[0]+" ' target='_blank' >ABRIR FHD</md-button>",
 "<md-button class='md-raised md-primary'href=' "+cpa[1]+" ' >Más</md-button>"
 ];
