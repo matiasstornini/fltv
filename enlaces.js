@@ -34,8 +34,8 @@ let AFra = [
 ];
 
 let AUcl = [
-"<a class='btn btn-primary' href=' "+champions[0]+" ' style='background-color: #ffffff00;'><b>ABRIR 1</b></a> <a class='btn btn-primary' href=' "+champions[1]+" ' style='background-color: #ffffff00;'><b>ABRIR 2</b></a> <!--<a class='btn btn-primary' href=' "+champions[2]+" ' style='background-color: #ffffff00;'><b>ABRIR 3</b></a>-->",
-"<a class='btn btn-primary' href=' "+champions[2]+" ' style='background-color: #ffffff00;'><b>ABRIR 1</b></a> <a class='btn btn-primary' href=' "+champions[3]+" ' style='background-color: #ffffff00;'><b>ABRIR 2</b></a> <!--<a class='btn btn-primary' href=' "+champions[5]+" ' style='background-color: #ffffff00;'><b>ABRIR 3</b></a>-->",
+"<a class='btn btn-primary' href=' "+champions[0]+" ' style='background-color: #ffffff00;'><b>ABRIR 1</b></a> <a class='btn btn-primary' href=' "+champions[1]+" ' style='background-color: #ffffff00;'><b>ABRIR 2</b></a> <a class='btn btn-primary' href=' "+champions[2]+" ' style='background-color: #ffffff00;'><b>ABRIR 3</b></a>",
+"<a class='btn btn-primary' href=' "+champions[3]+" ' style='background-color: #ffffff00;'><b>ABRIR 1</b></a> <a class='btn btn-primary' href=' "+champions[4]+" ' style='background-color: #ffffff00;'><b>ABRIR 2</b></a> <a class='btn btn-primary' href=' "+champions[5]+" ' style='background-color: #ffffff00;'><b>ABRIR 3</b></a>",
 "<a class='btn btn-primary' href=' "+champions[6]+" ' style='background-color: #ffffff00;'><b>ABRIR 1</b></a> <a class='btn btn-primary' href=' "+champions[7]+" ' style='background-color: #ffffff00;'><b>ABRIR 2</b></a> <a class='btn btn-primary' href=' "+champions[8]+" ' style='background-color: #ffffff00;'><b>ABRIR 3</b></a>"
 
 ];
@@ -71,6 +71,6 @@ let AMex = [
 ];
 
 let CPA = [
-"<a class='btn btn-primary' href=' "+cpa[0]+" ' style='background-color: #ffffff00;'><b>ABRIR 1</b></a>",
+"<a class='btn btn-primary' href=' "+cpa[0]+" ' style='background-color: #ffffff00;'><b>ABRIR FHD</b></a>",
 "<a class='btn btn-primary' href=' "+cpa[1]+" ' style='background-color: #ffffff00;'><b>ABRIR 2</b></a>"
 ];
