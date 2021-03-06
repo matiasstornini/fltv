@@ -3,7 +3,10 @@
       <style>  @include md-register-theme("bottom-bar-red", (
     primary: md-get-palette-color(red, A200)
   ));
-
+.dark-mode {
+  background-color: #202124;
+  color: white;
+}
 .display-4{font-size:68px;font-weight:300;line-height:1.1}.kemikegmoiegk {position:relative;margin-left:auto;margin-right:auto;padding-right:15px;padding-left:15px}
 .phone-viewport {
 width: 100%;
@@ -38,7 +41,7 @@ background: rgba(#000, .06);
       <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no"/>
       <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,400italic|Material+Icons">
       <!-- <link href="https://fonts.googleapis.com/css2?family=Open+Sans+Condensed:wght@300&display=swap" rel="stylesheet"> -->
-      <link rel="stylesheet" href="vue-material.min.css?1">
+      <link rel="stylesheet" href="vue-material.min.css?11">
     <link href="https://fonts.googleapis.com/css2?family=Open+Sans+Condensed:wght@300&display=swap" rel="stylesheet">
     <style type="text/css">body {font-family: 'Open Sans Condensed', sans-serif;}</style>
     <!-- Global site tag (gtag.js) - Google Analytics --> <script async src="https://www.googletagmanager.com/gtag/js?id=UA-112735297-3"></script> <script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-112735297-3'); </script>
@@ -46,12 +49,15 @@ background: rgba(#000, .06);
    </head>
    <body  style="-moz-user-select: none; -webkit-user-select: none; -ms-user-select:none; user-select:none;-o-user-select:none;" unselectable="on" onselectstart="return false;" onmousedown="return false;">
       <!-- <h4 class="md-display-4" align="center">PirloTV</h4> -->
-      <div style="text-align: center;"><span class="md-display-4">Roja Directa TV</span></div>
+      <div style="text-align: center;"><span class="md-display-4b">Roja Directa TV</span></div>
 
       <div id="app">
          <div id="bottom-bar-item-home" >
             <div class="kemikegmoiegk">
                <button type="button" class="md-button md-raised md-primary md-theme-default" id="bottom-bar-item-home" onclick="location.reload();"><div class="md-ripple md-disabled"><div class="md-button-content"><i class="md-icon md-icon-font md-bottom-bar-icon md-theme-default">refresh</i> </div> </div></button>
+
+               <button type="button" class="md-button md-raised md-primary md-theme-default" id="bottom-bar-item-home" onclick="fuctiondarkmode();"><div class="md-ripple md-disabled"><div class="md-button-content"><i class="md-icon md-icon-font md-bottom-bar-icon md-theme-default">dark_mode</i> </div> </div></button>
+               <!-- <span onclick='fuctiondarkmode(); ' class='waves-effect waves-light btnoutline' style='background-color: #ffffff00;'><b>Modo claro</b> -->
                <div id="demo2"></div><br><br><br>
             </div>
          </div>
@@ -144,7 +150,7 @@ background: rgba(#000, .06);
           <script src="https://pirlotv1.netlify.app/html/vars.js"></script><script src="enlaces.js"></script><script src="https://pirlotv1.netlify.app/html/dt.js"></script>
       <script src="https://pirlotv1.netlify.app/html/match.js"></script><script src="est.js"></script><script src="https://pirlotv1.netlify.app/html/html.js"></script>
       <script src="https://unpkg.com/vue"></script>
-      <script src="https://unpkg.com/vue-material"></script>
+      <script src="https://unpkg.com/vue-material"></script><script src="dark-mode.js"></script>
 
 
       <script>
