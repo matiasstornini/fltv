@@ -60,7 +60,8 @@ let AUcl = [
 
 ];
 let AEuro = [
-"<md-button class='md-raised md-primary'href=' "+euro[0]+" ' >ABRIR 1</md-button> <md-button class='md-raised md-primary'href=' "+euro[1]+" ' >ABRIR 2</md-button>",
+"<md-button class='md-raised md-primary'href=' "+euro[0]+" ' >ABRIR 1</md-button>",
+"<md-button class='md-raised md-primary'href=' "+euro[1]+" ' >ABRIR 2</md-button>",
 "<md-button class='md-raised md-primary'href=' "+euro[0]+" ' >ABRIR 1</md-button>",
 "<md-button class='md-raised md-primary'href=' "+euro[1]+" ' >ABRIR 2</md-button>"
 ];
