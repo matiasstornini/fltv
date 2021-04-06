@@ -1,76 +1,129 @@
 let AEsp = [
-"<a class='btn btn-primary' href=' "+esp[0]+" ' style='background-color: #ffffff00;'><b>ABRIR 1</b></a> <a class='btn btn-primary' href=' "+esp[1]+" ' style='background-color: #ffffff00;'><b>ABRIR 2</b></a> <a class='btn btn-primary' href=' "+esp[2]+" ' style='background-color: #ffffff00;'><b>ABRIR 3</b></a><!-- <a class='btn btn-primary' href=' "+esp[3]+" ' style='background-color: #ffffff00;'><b>ABRIR 4</b></a>-->",
-"<a class='btn btn-primary' href=' "+esp[3]+" ' style='background-color: #ffffff00;'><b>ABRIR 1</b></a> <a class='btn btn-primary' href=' "+esp[4]+" ' style='background-color: #ffffff00;'><b>ABRIR 2</b></a> <a class='btn btn-primary' href=' "+esp[5]+" ' style='background-color: #ffffff00;'><b>ABRIR 3</b></a>",
-"<a class='btn btn-primary' href=' "+esp[6]+" ' style='background-color: #ffffff00;'><b>ABRIR 1</b></a> <a class='btn btn-primary' href=' "+esp[7]+" ' style='background-color: #ffffff00;'><b>ABRIR 2</b></a> <a class='btn btn-primary' href=' "+esp[8]+" ' style='background-color: #ffffff00;'><b>ABRIR 3</b></a>",
-"<a class='btn btn-primary' href=' "+esp[9]+" ' style='background-color: #ffffff00;'><b>ABRIR 1</b></a> "
+"<md-button class='md-raised md-primary' href=' "+esp[0]+" ' >ABRIR 1</md-button> <md-button class='md-raised md-primary'href=' "+esp[1]+" ' >ABRIR 2</md-button> <md-button class='md-raised md-primary'href=' "+esp[2]+" ' >ABRIR 3</md-button><!-- <md-button class='md-raised md-primary'href=' "+esp[3]+" ' >ABRIR 4</md-button>-->",
+"<md-button class='md-raised md-primary'href=' "+esp[3]+" ' >ABRIR 1</md-button> <md-button class='md-raised md-primary'href=' "+esp[4]+" ' >ABRIR 2</md-button> <md-button class='md-raised md-primary'href=' "+esp[5]+" ' >ABRIR 3</md-button>",
+"<md-button class='md-raised md-primary'href=' "+esp[6]+" ' >ABRIR 1</md-button> <md-button class='md-raised md-primary'href=' "+esp[7]+" ' >ABRIR 2</md-button> <md-button class='md-raised md-primary'href=' "+esp[8]+" ' >ABRIR 3</md-button>",
+
+"<md-button class='md-raised md-primary'href=' "+esp[0]+" ' >ABRIR 1</md-button> ",
+"<md-button class='md-raised md-primary'href=' "+esp[1]+" ' >ABRIR 1</md-button> ",
+"<md-button class='md-raised md-primary'href=' "+esp[2]+" ' >ABRIR 1</md-button> ",
+
+"<md-button class='md-raised md-primary'href=' "+esp[3]+" ' >ABRIR 1</md-button> ",
+"<md-button class='md-raised md-primary'href=' "+esp[4]+" ' >ABRIR 1</md-button> ",
+"<md-button class='md-raised md-primary'href=' "+esp[5]+" ' >ABRIR 1</md-button> ",
+
+"<md-button class='md-raised md-primary'href=' "+esp[6]+" ' >ABRIR 1</md-button> ",
+"<md-button class='md-raised md-primary'href=' "+esp[7]+" ' >ABRIR 1</md-button> ",
+"<md-button class='md-raised md-primary'href=' "+esp[8]+" ' >ABRIR 1</md-button> "
 
 ];
 
 let AIng = [
-"<a class='btn btn-primary' href=' "+ing[0]+" ' style='background-color: #ffffff00;'><b>ABRIR 1</b></a> <a class='btn btn-primary' href=' "+ing[1]+" ' style='background-color: #ffffff00;'><b>ABRIR 2</b></a> <!--<a class='btn btn-primary' href=' "+ing[2]+" ' style='background-color: #ffffff00;'><b>ABRIR 3</b></a>-->",
-"<a class='btn btn-primary' href=' "+ing[2]+" ' style='background-color: #ffffff00;'><b>ABRIR 1</b></a> <a class='btn btn-primary' href=' "+ing[3]+" ' style='background-color: #ffffff00;'><b>ABRIR 2</b></a> <!--<a class='btn btn-primary' href=' "+ing[5]+" ' style='background-color: #ffffff00;'><b>ABRIR 3</b></a>-->",
-"<a class='btn btn-primary' href=' "+ing[4]+" ' style='background-color: #ffffff00;'><b>ABRIR 1</b></a> <a class='btn btn-primary' href=' "+ing[5]+" ' style='background-color: #ffffff00;'><b>ABRIR 2</b></a> <!--<a class='btn btn-primary' href=' "+ing[8]+" ' style='background-color: #ffffff00;'><b>ABRIR 3</b></a>-->"
+"<md-button class='md-raised md-primary'href=' "+ing[0]+" ' >ABRIR 1</md-button> <md-button class='md-raised md-primary'href=' "+ing[1]+" ' >ABRIR 2</md-button> <!--<md-button class='md-raised md-primary'href=' "+ing[2]+" ' >ABRIR 3</md-button>-->",
+"<md-button class='md-raised md-primary'href=' "+ing[2]+" ' >ABRIR 1</md-button> <md-button class='md-raised md-primary'href=' "+ing[3]+" ' >ABRIR 2</md-button> <!--<md-button class='md-raised md-primary'href=' "+ing[5]+" ' >ABRIR 3</md-button>-->",
+"<md-button class='md-raised md-primary'href=' "+ing[4]+" ' >ABRIR 1</md-button> <md-button class='md-raised md-primary'href=' "+ing[5]+" ' >ABRIR 2</md-button> <!--<md-button class='md-raised md-primary'href=' "+ing[8]+" ' >ABRIR 3</md-button>-->",
+
+"<md-button class='md-raised md-primary'href=' "+ing[0]+" ' >ABRIR 1</md-button> ",
+"<md-button class='md-raised md-primary'href=' "+ing[1]+" ' >ABRIR 1</md-button> ",
+"<md-button class='md-raised md-primary'href=' "+ing[2]+" ' >ABRIR 1</md-button> "
 
 ];
 
 let AIta = [
-"<a class='btn btn-primary' href=' "+ita[0]+" ' style='background-color: #ffffff00;'><b>ABRIR 1</b></a> <a class='btn btn-primary' href=' "+ita[1]+" ' style='background-color: #ffffff00;'><b>ABRIR 2</b></a> <!--<a class='btn btn-primary' href=' "+ita[2]+" ' style='background-color: #ffffff00;'><b>ABRIR 3</b></a>-->",
-"<a class='btn btn-primary' href=' "+ita[2]+" ' style='background-color: #ffffff00;'><b>ABRIR 1</b></a> <a class='btn btn-primary' href=' "+ita[3]+" ' style='background-color: #ffffff00;'><b>ABRIR 2</b></a> <!--<a class='btn btn-primary' href=' "+ita[5]+" ' style='background-color: #ffffff00;'><b>ABRIR 3</b></a>-->",
-"<a class='btn btn-primary' href=' "+ita[6]+" ' style='background-color: #ffffff00;'><b>ABRIR 1</b></a> <a class='btn btn-primary' href=' "+ita[7]+" ' style='background-color: #ffffff00;'><b>ABRIR 2</b></a> <a class='btn btn-primary' href=' "+ita[8]+" ' style='background-color: #ffffff00;'><b>ABRIR 3</b></a>"
-
+"<md-button class='md-raised md-primary'href=' "+ita[0]+" ' >ABRIR 1</md-button> <md-button class='md-raised md-primary'href=' "+ita[1]+" ' >ABRIR 2</md-button> <!--<md-button class='md-raised md-primary'href=' "+ita[2]+" ' >ABRIR 3</md-button>-->",
+"<md-button class='md-raised md-primary'href=' "+ita[2]+" ' >ABRIR 1</md-button> <md-button class='md-raised md-primary'href=' "+ita[3]+" ' >ABRIR 2</md-button> <!--<md-button class='md-raised md-primary'href=' "+ita[5]+" ' >ABRIR 3</md-button>-->",
+"<md-button class='md-raised md-primary'href=' "+ita[6]+" ' >ABRIR 1</md-button> <md-button class='md-raised md-primary'href=' "+ita[7]+" ' >ABRIR 2</md-button> <md-button class='md-raised md-primary'href=' "+ita[8]+" ' >ABRIR 3</md-button>",
+"<md-button class='md-raised md-primary'href=' "+ita[0]+" ' >ABRIR 1</md-button> ",
+"<md-button class='md-raised md-primary'href=' "+ita[1]+" ' >ABRIR 1</md-button> ",
+"<md-button class='md-raised md-primary'href=' "+ita[2]+" ' >ABRIR 1</md-button> ",
+"<md-button class='md-raised md-primary'href=' "+ita[3]+" ' >ABRIR 1</md-button> ",
+"<md-button class='md-raised md-primary'href=' "+ita[4]+" ' >ABRIR 1</md-button> ",
+"<md-button class='md-raised md-primary'href=' "+ita[5]+" ' >ABRIR 1</md-button> "
 ];
 
 let AAle = [
-"<a class='btn btn-primary' href=' "+ale[0]+" ' style='background-color: #ffffff00;'><b>ABRIR 1</b></a> <a class='btn btn-primary' href=' "+ale[1]+" ' style='background-color: #ffffff00;'><b>ABRIR 2</b></a> <a class='btn btn-primary' href=' "+ale[2]+" ' style='background-color: #ffffff00;'><b>ABRIR 3</b></a>",
-"<a class='btn btn-primary' href=' "+ale[2]+" ' style='background-color: #ffffff00;'><b>ABRIR 1</b></a> <a class='btn btn-primary' href=' "+ale[3]+" ' style='background-color: #ffffff00;'><b>ABRIR 2</b></a> <!--<a class='btn btn-primary' href=' "+ale[5]+" ' style='background-color: #ffffff00;'><b>ABRIR 3</b></a>-->",
-"<a class='btn btn-primary' href=' "+ale[6]+" ' style='background-color: #ffffff00;'><b>ABRIR 1</b></a> <a class='btn btn-primary' href=' "+ale[7]+" ' style='background-color: #ffffff00;'><b>ABRIR 2</b></a> <a class='btn btn-primary' href=' "+ale[8]+" ' style='background-color: #ffffff00;'><b>ABRIR 3</b></a>"
+"<md-button class='md-raised md-primary'href=' "+ale[0]+" ' >ABRIR 1</md-button> <md-button class='md-raised md-primary'href=' "+ale[1]+" ' >ABRIR 2</md-button> <md-button class='md-raised md-primary'href=' "+ale[2]+" ' >ABRIR 3</md-button>",
+"<md-button class='md-raised md-primary'href=' "+ale[2]+" ' >ABRIR 1</md-button> <md-button class='md-raised md-primary'href=' "+ale[3]+" ' >ABRIR 2</md-button> <!--<md-button class='md-raised md-primary'href=' "+ale[5]+" ' >ABRIR 3</md-button>-->",
+"<md-button class='md-raised md-primary'href=' "+ale[6]+" ' >ABRIR 1</md-button> <md-button class='md-raised md-primary'href=' "+ale[7]+" ' >ABRIR 2</md-button> <md-button class='md-raised md-primary'href=' "+ale[8]+" ' >ABRIR 3</md-button>"
 
 ];
 let AFra = [
-"<a class='btn btn-primary' href=' "+fra[0]+" ' style='background-color: #ffffff00;'><b>ABRIR 1</b></a> <a class='btn btn-primary' href=' "+fra[1]+" ' style='background-color: #ffffff00;'><b>ABRIR 2</b></a> <!--<a class='btn btn-primary' href=' "+fra[2]+" ' style='background-color: #ffffff00;'><b>ABRIR 3</b></a>-->",
-"<a class='btn btn-primary' href=' "+fra[2]+" ' style='background-color: #ffffff00;'><b>ABRIR 1</b></a> <a class='btn btn-primary' href=' "+fra[3]+" ' style='background-color: #ffffff00;'><b>ABRIR 2</b></a> <!--<a class='btn btn-primary' href=' "+fra[5]+" ' style='background-color: #ffffff00;'><b>ABRIR 3</b></a>-->",
-"<a class='btn btn-primary' href=' "+fra[6]+" ' style='background-color: #ffffff00;'><b>ABRIR 1</b></a> <a class='btn btn-primary' href=' "+fra[7]+" ' style='background-color: #ffffff00;'><b>ABRIR 2</b></a> <a class='btn btn-primary' href=' "+fra[8]+" ' style='background-color: #ffffff00;'><b>ABRIR 3</b></a>"
+"<md-button class='md-raised md-primary'href=' "+fra[0]+" ' >ABRIR 1</md-button> <md-button class='md-raised md-primary'href=' "+fra[1]+" ' >ABRIR 2</md-button> <!--<md-button class='md-raised md-primary'href=' "+fra[2]+" ' >ABRIR 3</md-button>-->",
+"<md-button class='md-raised md-primary'href=' "+fra[2]+" ' >ABRIR 1</md-button> <md-button class='md-raised md-primary'href=' "+fra[3]+" ' >ABRIR 2</md-button> <!--<md-button class='md-raised md-primary'href=' "+fra[5]+" ' >ABRIR 3</md-button>-->",
+"<md-button class='md-raised md-primary'href=' "+fra[6]+" ' >ABRIR 1</md-button> <md-button class='md-raised md-primary'href=' "+fra[7]+" ' >ABRIR 2</md-button> <md-button class='md-raised md-primary'href=' "+fra[8]+" ' >ABRIR 3</md-button>"
 
 ];
-
 let AUcl = [
-"<a class='btn btn-primary' href=' "+champions[0]+" ' style='background-color: #ffffff00;'><b>ABRIR 1</b></a> <a class='btn btn-primary' href=' "+champions[1]+" ' style='background-color: #ffffff00;'><b>ABRIR 2</b></a> <a class='btn btn-primary' href=' "+champions[2]+" ' style='background-color: #ffffff00;'><b>ABRIR 3</b></a>",
-"<a class='btn btn-primary' href=' "+champions[3]+" ' style='background-color: #ffffff00;'><b>ABRIR 1</b></a> <a class='btn btn-primary' href=' "+champions[4]+" ' style='background-color: #ffffff00;'><b>ABRIR 2</b></a> <a class='btn btn-primary' href=' "+champions[5]+" ' style='background-color: #ffffff00;'><b>ABRIR 3</b></a>",
-"<a class='btn btn-primary' href=' "+champions[6]+" ' style='background-color: #ffffff00;'><b>ABRIR 1</b></a> <a class='btn btn-primary' href=' "+champions[7]+" ' style='background-color: #ffffff00;'><b>ABRIR 2</b></a> <a class='btn btn-primary' href=' "+champions[8]+" ' style='background-color: #ffffff00;'><b>ABRIR 3</b></a>"
+"<md-button class='md-raised md-primary'href=' "+champions[0]+" ' >ABRIR 1</md-button> <md-button class='md-raised md-primary'href=' "+champions[1]+" ' >ABRIR 2</md-button> <md-button class='md-raised md-primary'href=' "+champions[2]+" ' >ABRIR 3</md-button>",
+"<md-button class='md-raised md-primary'href=' "+champions[3]+" ' >ABRIR 1</md-button> <md-button class='md-raised md-primary'href=' "+champions[4]+" ' >ABRIR 2</md-button> <md-button class='md-raised md-primary'href=' "+champions[5]+" ' >ABRIR 3</md-button>",
+"<md-button class='md-raised md-primary'href=' "+champions[6]+" ' >ABRIR 1</md-button> <md-button class='md-raised md-primary'href=' "+champions[7]+" ' >ABRIR 2</md-button> <md-button class='md-raised md-primary'href=' "+champions[8]+" ' >ABRIR 3</md-button>",
+"<md-button class='md-raised md-primary'href=' "+champions[9]+" ' >ABRIR 1</md-button> <md-button class='md-raised md-primary'href=' "+champions[10]+" ' >ABRIR 2</md-button> <md-button class='md-raised md-primary'href=' "+champions[11]+" ' >ABRIR 3</md-button>"
 
 ];
-
 let AEuro = [
-"<a class='btn btn-primary' href=' "+euro[0]+" ' style='background-color: #ffffff00;'><b>ABRIR 1</b></a> <a class='btn btn-primary' href=' "+euro[1]+" ' style='background-color: #ffffff00;'><b>ABRIR 2</b></a>"
+"<md-button class='md-raised md-primary'href=' "+euro[0]+" ' >ABRIR 1</md-button>",
+"<md-button class='md-raised md-primary'href=' "+euro[1]+" ' >ABRIR 2</md-button>",
+"<md-button class='md-raised md-primary'href=' "+euro[0]+" ' >ABRIR 1</md-button>",
+"<md-button class='md-raised md-primary'href=' "+euro[1]+" ' >ABRIR 2</md-button>"
 ];
 let AConmebol = [
-"<a class='btn btn-primary' href=' "+conmebol[0]+" ' style='background-color: #ffffff00;'><b>ABRIR 1</b></a> <a class='btn btn-primary' href=' "+conmebol[1]+" ' style='background-color: #ffffff00;'><b>ABRIR 2</b></a> <!--<a class='btn btn-primary' href=' "+conmebol[2]+" ' style='background-color: #ffffff00;'><b>ABRIR 3</b></a>-->",
-"<a class='btn btn-primary' href=' "+conmebol[2]+" ' style='background-color: #ffffff00;'><b>ABRIR 1</b></a> <a class='btn btn-primary' href=' "+conmebol[3]+" ' style='background-color: #ffffff00;'><b>ABRIR 2</b></a> <a class='btn btn-primary' href=' "+conmebol[3]+" ' style='background-color: #ffffff00;'><b>ABRIR 3</b></a>",
-"<a class='btn btn-primary' href=' "+conmebol[6]+" ' style='background-color: #ffffff00;'><b>ABRIR 1</b></a> <a class='btn btn-primary' href=' "+conmebol[7]+" ' style='background-color: #ffffff00;'><b>ABRIR 2</b></a> <a class='btn btn-primary' href=' "+conmebol[8]+" ' style='background-color: #ffffff00;'><b>ABRIR 3</b></a>",
-"<a class='btn btn-primary' href=' "+conmebol[9]+" ' style='background-color: #ffffff00;'><b>ABRIR 1</b></a> <a class='btn btn-primary' href=' "+conmebol[10]+" ' style='background-color: #ffffff00;'><b>ABRIR 2</b></a> <a class='btn btn-primary' href=' "+conmebol[11]+" ' style='background-color: #ffffff00;'><b>ABRIR 3</b></a>",
+"<md-button class='md-raised md-primary'href=' "+conmebol[0]+" ' >ABRIR 1</md-button> <md-button class='md-raised md-primary'href=' "+conmebol[1]+" ' >ABRIR 2</md-button> <!--<md-button class='md-raised md-primary'href=' "+conmebol[2]+" ' >ABRIR 3</md-button>-->",
+
+"<md-button class='md-raised md-primary'href=' "+conmebol[2]+" ' >ABRIR 1</md-button> <md-button class='md-raised md-primary'href=' "+conmebol[3]+" ' >ABRIR 2</md-button> <md-button class='md-raised md-primary'href=' "+conmebol[4]+" ' >ABRIR 3</md-button>",
+
+"<md-button class='md-raised md-primary'href=' "+conmebol[5]+" ' >ABRIR 1</md-button> <md-button class='md-raised md-primary'href=' "+conmebol[6]+" ' >ABRIR 2</md-button> ",
+
+"<md-button class='md-raised md-primary'href=' "+conmebol[9]+" ' >ABRIR 1</md-button> <md-button class='md-raised md-primary'href=' "+conmebol[10]+" ' >ABRIR 2</md-button> <md-button class='md-raised md-primary'href=' "+conmebol[11]+" ' >ABRIR 3</md-button>",
 
 ];
 let ALib = [
-"<a class='btn btn-primary' href=' "+lib[0]+" ' style='background-color: #ffffff00;'><b>ABRIR 1</b></a> <a class='btn btn-primary' href=' "+lib[1]+" ' style='background-color: #ffffff00;'><b>ABRIR 2</b></a> <a class='btn btn-primary' href=' "+lib[2]+" ' style='background-color: #ffffff00;'><b>ABRIR 3</b></a>",
+"<md-button class='md-raised md-primary'href=' "+lib[0]+" ' >ABRIR 1</md-button> <md-button class='md-raised md-primary'href=' "+lib[1]+" ' >ABRIR 2</md-button> <md-button class='md-raised md-primary'href=' "+lib[2]+" ' >ABRIR 3</md-button>",
+"<md-button class='md-raised md-primary'href=' "+lib[3]+" ' >ABRIR 1</md-button> <md-button class='md-raised md-primary'href=' "+lib[4]+" ' >ABRIR 2</md-button> <md-button class='md-raised md-primary'href=' "+lib[5]+" ' >ABRIR 3</md-button>",
+"<md-button class='md-raised md-primary'href=' "+lib[6]+" ' >ABRIR 1</md-button> <md-button class='md-raised md-primary'href=' "+lib[7]+" ' >ABRIR 2</md-button> <md-button class='md-raised md-primary'href=' "+lib[8]+" ' >ABRIR 3</md-button>",
+"<md-button class='md-raised md-primary'href=' "+lib[9]+" ' >ABRIR 1</md-button> <md-button class='md-raised md-primary'href=' "+lib[10]+" ' >ABRIR 2</md-button> <md-button class='md-raised md-primary'href=' "+lib[11]+" ' >ABRIR 3</md-button>",
+"<md-button class='md-raised md-primary'href=' "+lib[0]+" ' >ABRIR 1</md-button>", 
+"<md-button class='md-raised md-primary'href=' "+lib[1]+" ' >ABRIR 2</md-button> ",
+"<md-button class='md-raised md-primary'href=' "+lib[2]+" ' >ABRIR 3</md-button>",
 
-"<a class='btn btn-primary' href=' "+lib[3]+" ' style='background-color: #ffffff00;'><b>ABRIR 1</b></a> <a class='btn btn-primary' href=' "+lib[4]+" ' style='background-color: #ffffff00;'><b>ABRIR 2</b></a> <a class='btn btn-primary' href=' "+lib[5]+" ' style='background-color: #ffffff00;'><b>ABRIR 3</b></a>",
+];
+let AArg = [
+"<md-button class='md-raised md-primary'href=' "+arg[0]+" ' >ABRIR 1</md-button> <md-button class='md-raised md-primary'href=' "+arg[1]+" ' >ABRIR 2</md-button> <md-button class='md-raised md-primary'href=' "+arg[2]+" ' >ABRIR 3</md-button>",
+"<md-button class='md-raised md-primary'href=' "+arg[3]+" ' >ABRIR 1</md-button> <md-button class='md-raised md-primary'href=' "+arg[4]+" ' >ABRIR 2</md-button> <md-button class='md-raised md-primary'href=' "+arg[5]+" ' >ABRIR 3</md-button>",
+"<md-button class='md-raised md-primary'href=' "+arg[6]+" ' >ABRIR 1</md-button> <md-button class='md-raised md-primary'href=' "+arg[7]+" ' >ABRIR 2</md-button> <md-button class='md-raised md-primary'href=' "+esp[8]+" ' >ABRIR 3</md-button>",
 
-"<a class='btn btn-primary' href=' "+lib[6]+" ' style='background-color: #ffffff00;'><b>ABRIR 1</b></a> <a class='btn btn-primary' href=' "+lib[7]+" ' style='background-color: #ffffff00;'><b>ABRIR 2</b></a> <a class='btn btn-primary' href=' "+lib[8]+" ' style='background-color: #ffffff00;'><b>ABRIR 3</b></a>",
+"<md-button class='md-raised md-primary'href=' "+arg[0]+" ' >ABRIR 1</md-button> ",
+"<md-button class='md-raised md-primary'href=' "+arg[1]+" ' >ABRIR 1</md-button> ",
+"<md-button class='md-raised md-primary'href=' "+arg[2]+" ' >ABRIR 1</md-button> ",
 
-"<a class='btn btn-primary' href=' "+lib[9]+" ' style='background-color: #ffffff00;'><b>ABRIR 1</b></a> <a class='btn btn-primary' href=' "+lib[10]+" ' style='background-color: #ffffff00;'><b>ABRIR 2</b></a> <a class='btn btn-primary' href=' "+lib[11]+" ' style='background-color: #ffffff00;'><b>ABRIR 3</b></a>",
+"<md-button class='md-raised md-primary'href=' "+arg[3]+" ' >ABRIR 1</md-button> ",
+"<md-button class='md-raised md-primary'href=' "+arg[4]+" ' >ABRIR 1</md-button> ",
+"<md-button class='md-raised md-primary'href=' "+arg[5]+" ' >ABRIR 1</md-button> "
 
 ];
 
 let ACol = [
-"<a class='btn btn-primary' href=' "+col[0]+" ' style='background-color: #ffffff00;'><b>ABRIR 1</b></a> <a class='btn btn-primary' href=' "+col[1]+" ' style='background-color: #ffffff00;'><b>ABRIR 2</b></a>",
-"<a class='btn btn-primary' href=' "+col[2]+" ' style='background-color: #ffffff00;'><b>ABRIR 3</b></a>"
+"<md-button class='md-raised md-primary'href=' "+col[0]+" ' >ABRIR 1</md-button> <md-button class='md-raised md-primary' href=' "+col[1]+" ' >ABRIR 2</md-button>",
+
+"<md-button class='md-raised md-primary'href=' "+col[2]+" ' >ABRIR 3</md-button>",
+
+"<md-button class='md-raised md-primary'href=' "+col[0]+" ' >ABRIR 1</md-button>",
+"<md-button class='md-raised md-primary'href=' "+col[1]+" ' >ABRIR 2</md-button>",
+"<md-button class='md-raised md-primary'href=' "+col[2]+" ' >ABRIR 3</md-button>"
 ];
 
 let AMex = [
-"<a class='btn btn-primary' href=' "+mex[0]+" ' style='background-color: #ffffff00;'><b>ABRIR 1</b></a> <a class='btn btn-primary' href=' "+mex[1]+" ' style='background-color: #ffffff00;'><b>ABRIR 2</b></a>"
+"<md-button class='md-raised md-primary'href=' "+mex[0]+" ' >ABRIR 1</md-button> <md-button class='md-raised md-primary'href=' "+mex[1]+" ' >ABRIR 2</md-button>",
+
+"<md-button class='md-raised md-primary'href=' "+mex[0]+" ' >ABRIR 1</md-button>",
+"<md-button class='md-raised md-primary'href=' "+mex[1]+" ' >ABRIR 2</md-button>",
+"<md-button class='md-raised md-primary'href=' "+mex[2]+" ' >ABRIR 1</md-button>"
+];
+
+let AGo = [
+"<md-button class='md-raised md-primary'href=' "+go[0]+" ' >ABRIR (WebCast- Prueba)</md-button>",
+"<md-button class='md-raised md-primary'href=' "+go[1]+" ' >Más</md-button>"
 ];
 
 let CPA = [
-"<a class='btn btn-primary' href=' "+cpa[0]+" ' style='background-color: #ffffff00;' target='_blank'><b>ABRIR FHD</b></a>",
-"<a class='btn btn-primary' href=' "+cpa[1]+" ' style='background-color: #ffffff00;'><b>ABRIR 2</b></a>"
+"<md-button class='md-raised md-primary'href=' "+cpa[0]+" ' target='_blank' >ABRIR FHD</md-button>",
+"<md-button class='md-raised md-primary'href=' "+cpa[1]+" ' >Más</md-button>"
 ];
