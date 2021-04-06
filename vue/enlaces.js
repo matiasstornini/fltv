@@ -80,6 +80,9 @@ let ALib = [
 "<md-button class='md-raised md-primary'href=' "+lib[3]+" ' >ABRIR 1</md-button> <md-button class='md-raised md-primary'href=' "+lib[4]+" ' >ABRIR 2</md-button> <md-button class='md-raised md-primary'href=' "+lib[5]+" ' >ABRIR 3</md-button>",
 "<md-button class='md-raised md-primary'href=' "+lib[6]+" ' >ABRIR 1</md-button> <md-button class='md-raised md-primary'href=' "+lib[7]+" ' >ABRIR 2</md-button> <md-button class='md-raised md-primary'href=' "+lib[8]+" ' >ABRIR 3</md-button>",
 "<md-button class='md-raised md-primary'href=' "+lib[9]+" ' >ABRIR 1</md-button> <md-button class='md-raised md-primary'href=' "+lib[10]+" ' >ABRIR 2</md-button> <md-button class='md-raised md-primary'href=' "+lib[11]+" ' >ABRIR 3</md-button>",
+"<md-button class='md-raised md-primary'href=' "+lib[0]+" ' >ABRIR 1</md-button>", 
+"<md-button class='md-raised md-primary'href=' "+lib[1]+" ' >ABRIR 2</md-button> ",
+"<md-button class='md-raised md-primary'href=' "+lib[2]+" ' >ABRIR 3</md-button>",
 
 ];
 let AArg = [
