@@ -120,10 +120,24 @@ let AMex = [
 
 let AGo = [
 "<md-button class='md-raised md-primary'href=' "+go[0]+" ' >ABRIR (WebCast- Prueba)</md-button>",
-"<md-button class='md-raised md-primary'href=' "+go[1]+" ' >Más</md-button>"
+"<md-button class='md-raised md-primary'href=' "+go[1]+" ' >ABRIR (WebCast- Prueba)</md-button>",
+"<md-button class='md-raised md-primary'href=' "+go[2]+" ' >ABRIR (WebCast- Prueba)</md-button>",
+"<md-button class='md-raised md-primary'href=' "+go[3]+" ' >ABRIR (WebCast- Prueba)</md-button>",
+"<md-button class='md-raised md-primary'href=' "+go[4]+" ' >Más</md-button>"
 ];
 
 let CPA = [
 "<md-button class='md-raised md-primary'href=' "+cpa[0]+" ' target='_blank' >ABRIR FHD</md-button>",
 "<md-button class='md-raised md-primary'href=' "+cpa[1]+" ' >Más</md-button>"
 ];
+
+let Extra = [
+"<md-button class='md-raised md-primary'href=' "+ext[0]+" ' >ABRIR 1</md-button> ",
+"<md-button class='md-raised md-primary'href=' "+ext[1]+" ' >ABRIR 1</md-button> ",
+"<md-button class='md-raised md-primary'href=' "+ext[2]+" ' >ABRIR 1</md-button> ",
+"<md-button class='md-raised md-primary'href=' "+ext[3]+" ' >ABRIR 1</md-button> ",
+"<md-button class='md-raised md-primary'href=' "+ext[4]+" ' >ABRIR 1</md-button> ",
+"<md-button class='md-raised md-primary'href=' "+ext[5]+" ' >ABRIR 1</md-button> ",
+"<md-button class='md-raised md-primary'href=' "+ext[6]+" ' >ABRIR 1</md-button> ",
+"<md-button class='md-raised md-primary'href=' "+ext[7]+" ' >ABRIR 1</md-button> ",
+]
