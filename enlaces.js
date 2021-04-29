@@ -121,6 +121,7 @@ let AMex = [
 let AGo = [
 "<md-button class='md-raised md-primary'href=' "+go[0]+" ' >ABRIR (WebCast- Prueba)</md-button>",
 "<md-button class='md-raised md-primary'href=' "+go[1]+" ' >Más</md-button>"
+  "<a onclick="'openScreen(' . "'reproductores'" . ')'" class="'waves-effect waves-light btn'"><font color="'#FFFFFF'">Opcion 2 (HD)</font></a>"
 ];
 
 let CPA = [
