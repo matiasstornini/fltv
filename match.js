@@ -16,7 +16,7 @@ let Est=[
 ];
 
 let Enl = [
-    <a onclick="openScreen(' . "'reproductores'" . ')" class="waves-effect waves-light btn"><font color="#FFFFFF">Opcion 2 (HD)</font></a>,
+    AGo[5],
     "","",
     "","","",
     "","","","","","","",
