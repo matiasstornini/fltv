@@ -1,1 +1,6 @@
+ docker run -p 6080:80 dorowu/ubuntu-desktop-lxde-vnc
+ 
+ ffmpeg -re -i http://matiasstornini00.shortcm.li/vps1.m3u8 -acodec copy -vcodec copy -f flv rtmp://stream.ssh101.com/live/m3u8rd1
+ 
  ffmpeg  -i http://matiasstornini00.shortcm.li/tvp1.ts -vcodec libx264 -s 1080x720 -vb 250k  -acodec copy -f flv rtmp://stream.ssh101.com/live/m3u8rd1
+ 
