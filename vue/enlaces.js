@@ -41,7 +41,7 @@ let AIta = [
 ];
 
 let AAle = [
-"<md-button class='md-raised md-primary'href=' "+ale[0]+" ' >ABRIR 1</md-button> <md-button class='md-raised md-primary'href=' "+ale[1]+" ' >ABRIR 2</md-button> <md-button class='md-raised md-primary'href=' "+ale[2]+" ' >ABRIR 3</md-button>",
+"<md-button class='md-raised md-primary'href=' "+ale[0]+" ' >ABRIR 1</md-button> <md-button class='md-raised md-primary'href=' "+ale[1]+" ' >ABRIR 2</md-button>",
 "<md-button class='md-raised md-primary'href=' "+ale[2]+" ' >ABRIR 1</md-button> <md-button class='md-raised md-primary'href=' "+ale[3]+" ' >ABRIR 2</md-button> <!--<md-button class='md-raised md-primary'href=' "+ale[5]+" ' >ABRIR 3</md-button>-->",
 "<md-button class='md-raised md-primary'href=' "+ale[6]+" ' >ABRIR 1</md-button> <md-button class='md-raised md-primary'href=' "+ale[7]+" ' >ABRIR 2</md-button> <md-button class='md-raised md-primary'href=' "+ale[8]+" ' >ABRIR 3</md-button>"
 
