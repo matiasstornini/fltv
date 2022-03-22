@@ -41,7 +41,7 @@ let AIta = [
 ];
 
 let AAle = [
-"<a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+ale[0]+" ' style='background-color: #ffffff00;'><b>ABRIR 1</b></a> <a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+ale[1]+" ' style='background-color: #ffffff00;'><b>ABRIR 2</b></a> <!--<a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+ale[2]+" ' style='background-color: #ffffff00;'><b>ABRIR 3</b></a>-->",
+"<a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+ale[0]+" ' style='background-color: #ffffff00;'><b>ABRIR 1</b></a> <a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+ale[1]+" ' style='background-color: #ffffff00;'><b>ABRIR 2</b></a> <a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+ale[2]+" ' style='background-color: #ffffff00;'><b>ABRIR 3</b></a>",
 "<a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+ale[2]+" ' style='background-color: #ffffff00;'><b>ABRIR 1</b></a> <a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+ale[3]+" ' style='background-color: #ffffff00;'><b>ABRIR 2</b></a> <!--<a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+ale[5]+" ' style='background-color: #ffffff00;'><b>ABRIR 3</b></a>-->",
 "<a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+ale[6]+" ' style='background-color: #ffffff00;'><b>ABRIR 1</b></a> <a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+ale[7]+" ' style='background-color: #ffffff00;'><b>ABRIR 2</b></a> <a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+ale[8]+" ' style='background-color: #ffffff00;'><b>ABRIR 3</b></a>"
 
@@ -142,4 +142,13 @@ let Extra = [
 "<a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+ext[5]+" ' style='background-color: #ffffff00;'><b>ABRIR 1</b></a> ",
 "<a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+ext[6]+" ' style='background-color: #ffffff00;'><b>ABRIR 1</b></a> ",
 "<a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+ext[7]+" ' style='background-color: #ffffff00;'><b>ABRIR 1</b></a> "
+]
+
+let Chs = [
+"<a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+chs[0]+" ' style='background-color: #ffffff00;'><b>ABRIR 1</b></a> ",
+"<a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+chs[1]+" ' style='background-color: #ffffff00;'><b>ABRIR 1</b></a> ",
+"<a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+chs[2]+" ' style='background-color: #ffffff00;'><b>ABRIR 1</b></a> ",
+"<a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+chs[3]+" ' style='background-color: #ffffff00;'><b>ABRIR 1</b></a> ",
+"<a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+chs[4]+" ' style='background-color: #ffffff00;'><b>ABRIR 1</b></a> ",
+"<a class='waves-effect waves-light btnoutlinelight outline ahref' href=' "+chs[5]+" ' style='background-color: #ffffff00;'><b>ABRIR 1</b></a> "
 ]
