@@ -143,3 +143,9 @@ let Extra = [
 "<a class='btn btn-primary' href=' "+ext[6]+" ' ><b>ABRIR 1</b></a> ",
 "<a class='btn btn-primary' href=' "+ext[7]+" ' ><b>ABRIR 1</b></a> "
 ]
+
+let Chs = [
+"<a class='btn btn-primary' href=' "+chs[0]+" ' ><b>ABRIR 1</b></a> ",
+"<a class='btn btn-primary' href=' "+chs[1]+" ' ><b>ABRIR 1</b></a> ",
+"<a class='btn btn-primary' href=' "+chs[2]+" ' ><b>ABRIR 1</b></a> "
+]
