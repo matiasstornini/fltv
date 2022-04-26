@@ -75,6 +75,15 @@ let col = [
 ""+blog+"bundes-2.html",""+blog+"bundes-2b.html"
 
 ];
+let mex = [
+""+blog+"col-0.html",""+blog+"col-0b.html",
+""+blog+"col-0c.html",
+""+blog+"col-0c.html",
+""+blog+"col-0c.html",
+""+blog+"col-0c.html",
+""+blog+"bundes-2.html",""+blog+"bundes-2b.html"
+
+];
 
 let ext = [
 ""+blog+"extra-0a-m3u8.html",
