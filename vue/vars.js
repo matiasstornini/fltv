@@ -76,13 +76,23 @@ let col = [
 
 ];
 
+let ext = [
+""+blog+"extra-0a-m3u8.html",
+""+blog+"extra-0b-m3u8.html",
+""+blog+"extra-0c-m3u8.html",
+""+blog+"extra-0d-m3u8.html",
+""+blog+"extra-0e-m3u8.html",
+""+blog+"extra-0f-m3u8.html",
+""+blog+"extra-0g-m3u8.html",
+""+blog+"extra-0h-m3u8.html",
 
+];
 let chs = [
-""+blog2+"href-ch-1.html",
-""+blog2+"href-ch-2.html",
-""+blog2+"href-ch-3.html",
-""+blog2+"href-ch-4.html",
-""+blog2+"href-ch-5.html",
-""+blog2+"href-ch-6.html",
+""+blog2+"href-ch-1-m3u8.html",
+""+blog2+"href-ch-2-m3u8.html",
+""+blog2+"href-ch-3-m3u8.html",
+""+blog2+"href-ch-4-m3u8.html",
+""+blog2+"href-ch-5-m3u8.html",
+""+blog2+"href-ch-6-m3u8.html",
 
 ];
