@@ -144,14 +144,14 @@ let Extra = [
 "<a class='btn btn-primary' href=' "+ext[7]+" ' ><b>ABRIR 1</b></a> "
 ];
 let Extra2 = [
-"<a class='btn btn-primary' href=' "+ext[0]+" ' ><b>ABRIR 1</b></a> ",
-"<a class='btn btn-primary' href=' "+ext[1]+" ' ><b>ABRIR 1</b></a> ",
-"<a class='btn btn-primary' href=' "+ext[2]+" ' ><b>ABRIR 1</b></a> ",
-"<a class='btn btn-primary' href=' "+ext[3]+" ' ><b>ABRIR 1</b></a> ",
-"<a class='btn btn-primary' href=' "+ext[4]+" ' ><b>ABRIR 1</b></a> ",
-"<a class='btn btn-primary' href=' "+ext[5]+" ' ><b>ABRIR 1</b></a> ",
-"<a class='btn btn-primary' href=' "+ext[6]+" ' ><b>ABRIR 1</b></a> ",
-"<a class='btn btn-primary' href=' "+ext[7]+" ' ><b>ABRIR 1</b></a> "
+"<a class='btn btn-primary' href=' "+ext2[0]+" ' ><b>ABRIR 1</b></a> ",
+"<a class='btn btn-primary' href=' "+ext2[1]+" ' ><b>ABRIR 1</b></a> ",
+"<a class='btn btn-primary' href=' "+ext2[2]+" ' ><b>ABRIR 1</b></a> ",
+"<a class='btn btn-primary' href=' "+ext2[3]+" ' ><b>ABRIR 1</b></a> ",
+"<a class='btn btn-primary' href=' "+ext2[4]+" ' ><b>ABRIR 1</b></a> ",
+"<a class='btn btn-primary' href=' "+ext2[5]+" ' ><b>ABRIR 1</b></a> ",
+"<a class='btn btn-primary' href=' "+ext2[6]+" ' ><b>ABRIR 1</b></a> ",
+"<a class='btn btn-primary' href=' "+ext2[7]+" ' ><b>ABRIR 1</b></a> "
 ];
 
 let Chs = [
