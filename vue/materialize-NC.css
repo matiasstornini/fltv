@@ -6,16 +6,19 @@
   @font-face {
       font-family: 'OpenSans-Light';
       src: url('fonts/OpenSansCondensed-Light.ttf');
+      font-display: swap;
   }
 
   @font-face {
       font-family: 'OpenSans-LightItalic';
       src: url('fonts/OpenSansCondensed-LightItalic.ttf');
+      font-display: swap;
   }
 
   @font-face {
       font-family: 'OpenSans-Bold';
       src: url('fonts/OpenSansCondensed-Bold.ttf');
+      font-display: swap;
   }
 
   abbr{display:none;}
