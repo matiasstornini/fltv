@@ -5,17 +5,20 @@
  */
   @font-face {
       font-family: 'OpenSans-Light';
-      src: url('../vue/fonts/OpenSansCondensed-Light.ttf');
+      src: url('fonts/OpenSansCondensed-Light.ttf');
+      font-display: swap;
   }
 
   @font-face {
       font-family: 'OpenSans-LightItalic';
-      src: url('../vue/fonts/OpenSansCondensed-LightItalic.ttf');
+      src: url('fonts/OpenSansCondensed-LightItalic.ttf');
+      font-display: swap;
   }
 
   @font-face {
       font-family: 'OpenSans-Bold';
-      src: url('../vue/fonts/OpenSansCondensed-Bold.ttf');
+      src: url('fonts/OpenSansCondensed-Bold.ttf');
+      font-display: swap;
   }
 
   abbr{display:none;}
