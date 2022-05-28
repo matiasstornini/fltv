@@ -1,5 +1,4 @@
 const apiurl = 'https://redcardfut2.netlify.app/Datos.json'
-
 fetch(apiurl)
     .then(response => response.json())
     .then(function(data) {
@@ -13,6 +12,58 @@ fetch(apiurl)
                 hours + ":" + minutes.substr(-2); /*+ ':' + seconds.substr(-2)*/
             dta.push(formattedTime);
             html += `
+            <h3 align="center"><u>Evento Destacado:</u></h3>
+            <div class="card sticky-action" style="overflow: visible;">
+              <div class="card-image waves-effect waves-block waves-light">
+                <img class="" src="${data.Imagen}">
+              </div>
+              <div class="card-content">
+                <span class="card-title grey-text text-darken-4">${dta} ${data.Partido}</span>
+
+              </div>
+
+              <div class="card-action">
+                ${data.Switch !== 0 ? (
+                  `
+                  ${data.EnlaceMatchs.valor1 !== "" ? (
+                  	`<a class="waves-effect outline ahref waves-dark btnoutlinedark" href="${data.EnlaceMatchs.valor1}" style="background-color: #ffffff00;"><b>ABRIR 1</b></a>  `
+                    ) : (
+                      ""
+                    )}
+                    ${data.EnlaceMatchs.valor2 !== "" ? (
+                      `<a class="waves-effect outline ahref waves-dark btnoutlinedark" href="${data.EnlaceMatchs.valor2}" style="background-color: #ffffff00;"><b>ABRIR 2</b></a>  `
+                      ) : (
+                        ""
+                      )}
+                      ${data.EnlaceMatchs.valor3 !== "" ? (
+                        `<a class="waves-effect outline ahref waves-dark btnoutlinedark" href="${data.EnlaceMatchs.valor3}" style="background-color: #ffffff00;"><b>ABRIR 3</b></a>  `
+                        ) : (
+                          ""
+                        )}
+                      ${data.EnlaceMatchs.valor4 !== "" ? (
+                        `<a class="waves-effect outline ahref waves-dark btnoutlinedark" href="${data.EnlaceMatchs.valor4}" style="background-color: #ffffff00;"><b>ABRIR 3</b></a>  `
+                        ) : (
+                          ""
+                        )}
+                      ${data.EnlaceMatchs.valor5 !== "" ? (
+                        `<a class="waves-effect outline ahref waves-dark btnoutlinedark" href="${data.EnlaceMatchs.valor5}" style="background-color: #ffffff00;"><b>ABRIR 3</b></a>  `
+                        ) : (
+                          ""
+                        )}
+                      ${data.EnlaceMatchs.valor6 !== "" ? (
+                        `<a class="waves-effect outline ahref waves-dark btnoutlinedark" href="${data.EnlaceMatchs.valor6}" style="background-color: #ffffff00;"><b>ABRIR 3</b></a>  `
+                        ) : (
+                          ""
+                        )}
+                  `
+                ) : (
+                  ""
+                )}
+             <a class="waves-effect outline ahref waves-dark btnoutlinedark" href="${data.Estadisticas}" style="background-color: #ffffff00;">Estadisticas</a>
+             
+              </div>
+            </div>
+            <h3 align="center"><u>Todos los eventos:</u></h3>
              <h4>${dta} ${data.Partido} (${data.Competicion})</h4>
                 ${data.Switch !== 0 ? (
                   `
@@ -28,6 +79,21 @@ fetch(apiurl)
                       )}
                       ${data.EnlaceMatchs.valor3 !== "" ? (
                         `<a class="waves-effect outline ahref waves-dark btnoutlinedark" href="${data.EnlaceMatchs.valor3}" style="background-color: #ffffff00;"><b>ABRIR 3</b></a>  `
+                        ) : (
+                          ""
+                        )}
+                      ${data.EnlaceMatchs.valor4 !== "" ? (
+                        `<a class="waves-effect outline ahref waves-dark btnoutlinedark" href="${data.EnlaceMatchs.valor4}" style="background-color: #ffffff00;"><b>ABRIR 3</b></a>  `
+                        ) : (
+                          ""
+                        )}
+                      ${data.EnlaceMatchs.valor5 !== "" ? (
+                        `<a class="waves-effect outline ahref waves-dark btnoutlinedark" href="${data.EnlaceMatchs.valor5}" style="background-color: #ffffff00;"><b>ABRIR 3</b></a>  `
+                        ) : (
+                          ""
+                        )}
+                      ${data.EnlaceMatchs.valor6 !== "" ? (
+                        `<a class="waves-effect outline ahref waves-dark btnoutlinedark" href="${data.EnlaceMatchs.valor6}" style="background-color: #ffffff00;"><b>ABRIR 3</b></a>  `
                         ) : (
                           ""
                         )}
