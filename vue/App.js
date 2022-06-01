@@ -12,7 +12,6 @@ fetch(apiurl)
                 hours + ":" + minutes.substr(-2); /*+ ':' + seconds.substr(-2)*/
             dta.push(formattedTime);
             html += `
-            <h3 align="center"><u>Todos los eventos:</u></h3>
              <h4>${dta} ${data.Partido} (${data.Competicion})</h4>
                 ${data.Switch !== 0 ? (
                   `
