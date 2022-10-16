@@ -11,7 +11,7 @@ card += `
 <h3 align="center"><u>Evento Destacado:</u></h3>
 <div class="card sticky-action" style="overflow: visible;">
     <div class="card-image waves-effect waves-block waves-light">
-        <img class="" src="http://redcardfut2.netlify.app/16657903599615.webp" widt="100%" height="100%">
+        <img class="" src="https://e00-ar-marca.uecdn.es/claro/assets/multimedia/imagenes/2022/10/15/16657903599615.jpg" widt="100%" height="100%">
     </div>
     <div class="card-content">
         <span class="card-title grey-text text-darken-4">${dta[0]} Real Madrid - Barcelona</span>
