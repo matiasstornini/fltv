@@ -27,7 +27,7 @@ card += `
             <a class="waves-effect outline ahref waves-dark btnoutlinedark" href="${Enlaces[4]}" style="background-color: #ffffff00;"><b>Abrir</b></a>
             <a class="waves-effect outline ahref waves-dark btnoutlinedark" href="${Enlaces[5]}" style="background-color: #ffffff00;"><b>Abrir</b></a>
 
-            <a class="waves-effect outline ahref waves-dark btnoutlinedark" href="" style="background-color: #ffffff00;">Estadisticas</a>`
+            <a class="waves-effect outline ahref waves-dark btnoutlinedark" href="https://csb-vvcdv9-adiccfut.vercel.app/partido1" style="background-color: #ffffff00;">Estadisticas</a>`
         )}
         
     </div>
