@@ -11,10 +11,10 @@ card += `
 <h3 align="center"><u>Evento Destacado:</u></h3>
 <div class="card sticky-action" style="overflow: visible;">
     <div class="card-image waves-effect waves-block waves-light">
-        <img class="" src="https://e00-ar-marca.uecdn.es/claro/assets/multimedia/imagenes/2022/10/15/16657903599615.jpg" widt="100%" height="100%">
+        <img class="" src="https://redcardfut2.netlify.app/img/qatar.jpg" widt="100%" height="100%">
     </div>
     <div class="card-content">
-        <span class="card-title grey-text text-darken-4">${dta[0]} Real Madrid - Barcelona</span>
+        <span class="card-title grey-text text-darken-4">${dta[0]} Qatar - Ecuador</span>
     </div>
     
     <div class="card-action">
@@ -23,11 +23,11 @@ card += `
             <a class="waves-effect outline ahref waves-dark btnoutlinedark" href="${Enlaces[0]}" style="background-color: #ffffff00;"><b>Abrir</b></a>
             <a class="waves-effect outline ahref waves-dark btnoutlinedark" href="${Enlaces[1]}" style="background-color: #ffffff00;"><b>Abrir</b></a>
             <a class="waves-effect outline ahref waves-dark btnoutlinedark" href="${Enlaces[2]}" style="background-color: #ffffff00;"><b>Abrir</b></a>
-            <a class="waves-effect outline ahref waves-dark btnoutlinedark" href="${Enlaces[3]}" style="background-color: #ffffff00;"><b>Abrir</b></a>
+            <!--<a class="waves-effect outline ahref waves-dark btnoutlinedark" href="${Enlaces[3]}" style="background-color: #ffffff00;"><b>Abrir</b></a>
             <a class="waves-effect outline ahref waves-dark btnoutlinedark" href="${Enlaces[4]}" style="background-color: #ffffff00;"><b>Abrir</b></a>
-            <a class="waves-effect outline ahref waves-dark btnoutlinedark" href="${Enlaces[5]}" style="background-color: #ffffff00;"><b>Abrir</b></a>
+            <a class="waves-effect outline ahref waves-dark btnoutlinedark" href="${Enlaces[5]}" style="background-color: #ffffff00;"><b>Abrir</b></a>-->
 
-            <a class="waves-effect outline ahref waves-dark btnoutlinedark" href="https://csb-vvcdv9-adiccfut.vercel.app/partido1" style="background-color: #ffffff00;">Estadisticas</a>`
+            <a class="waves-effect outline ahref waves-dark btnoutlinedark" href="https://apps-innova-redirects.blogspot.com/2020/03/no-disponible.html" style="background-color: #ffffff00;">Estadisticas</a>`
         )}
         
     </div>
