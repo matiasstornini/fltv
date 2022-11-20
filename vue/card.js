@@ -1,7 +1,7 @@
 let card = '';
 console.log(x);
 var dta = [];
-var date = new Date(1665929700 * 1000);
+var date = new Date(1668960000 * 1000);
 var hours = date.getHours();
 var minutes = "0" + date.getMinutes();
 var formattedTime =
