@@ -1,7 +1,7 @@
 let card = '';
 console.log(x);
 var dta = [];
-var date = new Date(1668960000 * 1000);
+var date = new Date(1671375600 * 1000);
 var hours = date.getHours();
 var minutes = "0" + date.getMinutes();
 var formattedTime =
@@ -11,10 +11,10 @@ card += `
 <h3 align="center"><u>Evento Destacado:</u></h3>
 <div class="card sticky-action" style="overflow: visible;">
     <div class="card-image waves-effect waves-block waves-light">
-        <img class="" src="https://redcardfut2.netlify.app/img/qatar.jpg" widt="100%" height="100%">
+        <img class="" src="https://e.rpp-noticias.io/normal/2022/12/15/530353_1362216.jpg" widt="100%" height="100%">
     </div>
     <div class="card-content">
-        <span class="card-title grey-text text-darken-4">${dta[0]} Qatar - Ecuador</span>
+        <span class="card-title grey-text text-darken-4">${dta[0]} Argentina - Francia</span>
     </div>
     
     <div class="card-action">
